@@ -12,7 +12,7 @@ description: kamjam@mit.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  drkamjam 
 linkedin_username: kamjam
-twitter_username: drkamjam 
+twitter_username: tareenamusaddiq 
 
 # Build settings
 markdown: kramdown
