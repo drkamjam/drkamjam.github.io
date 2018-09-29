@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Publications
-permalink: /publication/
+title : Publications 
+permalink: /publications/
 tagline: "By date"
 ---
 <!--<div class="tagline">

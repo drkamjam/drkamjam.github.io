@@ -1,11 +1,11 @@
 ---
 layout: page
-title : Experience
-permalink: /experience/
+title : Research 
+permalink: /research/
 ---
 
 <div class="manual-post">
-  <div class="manual sectionTitle"><strong>Outreach</strong><br></div>
+  <div class="manual sectionTitle"><strong>Dissertation</strong><br></div>
 <p>  <div class="manual-content">
 <exp>
   <div id="exp-text">
