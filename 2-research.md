@@ -8,7 +8,14 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Dissertation</strong><br></div>
 <p>  <div class="manual-content">
 
-    <p>Committee: Dr. Thomas A. Mroz (chair), Dr. Alberto E. Chong, Dr. Tim R. Sass, Dr. Naved Hamid (external) </p>
+    <p>Committee: 
+	<ul>
+	<li>Dr. Thomas A. Mroz (chair) 
+	<li>Dr. Alberto E. Chong
+	<li>Dr. Tim R. Sass
+	<li>Dr. Naved Hamid (external) 
+	</ul>
+     </p>
     
     <p>Are there returns to investment in girl's education even at low levels? Evidence from Pakistan.</p>
 
