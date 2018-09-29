@@ -7,6 +7,16 @@ permalink: /research/
 <div class="manual-post">
   <div class="manual sectionTitle"><strong>Dissertation</strong><br></div>
 <p>  <div class="manual-content">
+
+    <p>Committee: Dr. Thomas A. Mroz (chair), Dr. Alberto E. Chong, Dr. Tim R. Sass, Dr. Naved Hamid (external) </p>
+    
+    <p>Are there returns to investment in girl's education even at low levels? Evidence from Pakistan.</p>
+
+    <p>Policymakers have advocated educating girls and young women as a means to reduce under age marriage and fertility. Moreover, there is growing consensus that investments in the education of young girls and women yield additional private and social returns, including improved child health and nutrition outcomes. This paper looks at the effect of primary education for girls on these outcomes in Pakistan. I address the issue of endogeneity by using exogenous variation in school exposure introduced by school openings across more than a hundred districts of Pakistan. I exploit the timing and magnitude of school openings across districts at the time of individuals’ school going age to estimate the causal effect of primary education on their own long run outcomes as well as the health and educational outcomes of their children.</p>
+
+    <p>Long run gains from Educating Girls: Evidence from a CCT program in Pakistan (with Farah Said)
+This paper looks at the long run impact of secondary education for girls in Pakistan. Owing to low female enrollment rates, in 2004 the Government of Punjab introduced a conditional cash transfer program, targeting adolescent girls in districts with low literacy rates.  We use this exogenous variation in education to estimate the impact on the next generation of the beneficiaries.  In particular, we look at the impact on childrens’ health (infant and under five mortality, immunization, stunting and wasting) and education outcomes (enrollment in school). We explore several mechanisms that might be contributing to these outcomes including delayed age of marriage and first birth, fertility and better maternal care.</p>
+
 <exp>
   <div id="exp-text">
     I help with <a href="http://curis.stanford.edu/">CURIS</a>, the department's undergraduate research program, and co-organize weekly lunches for Ph.D. track women in CS. In the past, I've also been involved in various science and engineering outreach events for underrepresented groups.
