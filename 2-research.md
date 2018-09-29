@@ -10,10 +10,10 @@ permalink: /research/
 
     <p>Committee: 
 	<ul>
-	<li>Dr. Thomas A. Mroz (chair) 
-	<li>Dr. Alberto E. Chong
-	<li>Dr. Tim R. Sass
-	<li>Dr. Naved Hamid (external) 
+	<li>Dr. Thomas A. Mroz (chair)</li> 
+	<li>Dr. Alberto E. Chong</li>
+	<li>Dr. Tim R. Sass</li>
+	<li>Dr. Naved Hamid (external) </li>
 	</ul>
      </p>
     
