@@ -5,9 +5,13 @@
     <!--<h2 class="footer-heading small-site-title">Contact</h2>-->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list footer-content">
-          <li><span class="icon icon--office">{% include icon-office.svg %}</span> 433 Gates Hall, Stanford, GA 30040</li>
+      <div class="footer-col footer-col-1 footer-content">
+        <ul class="social-media-list">
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
@@ -18,26 +22,6 @@
       </div>
 
       <div class="footer-col footer-col-3 footer-content">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-4 footer-content">
-        <ul class="social-media-list">
-          {% if site.linkedin_username %}
-          <li>
-            {% include icon-linkedin.html username=site.linkedin_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-5 footer-content">
         <ul class="social-media-list">
           {% if site.twitter_username %}
           <li>
