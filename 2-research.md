@@ -10,10 +10,10 @@ permalink: /research/
 
     <p>Committee: 
 	<ul>
-	<li>Dr. Thomas A. Mroz (chair)</li> 
-	<li>Dr. Alberto E. Chong</li>
-	<li>Dr. Tim R. Sass</li>
-	<li>Dr. Naved Hamid (external) </li>
+	<li><a href="https://aysps.gsu.edu/profile/tom-mroz-2/">Dr. Thomas A. Mroz</a> (chair)</li> 
+	<li><a href="https://aysps.gsu.edu/profile/alberto-chong/">Dr. Alberto E. Chong</a></li>
+	<li><a href="https://aysps.gsu.edu/profile/tim-sass-2/">Dr. Tim R. Sass</a></li>
+	<li><a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Dr. Naved Hamid</a> (external) </li>
 	</ul>
      </p>
     
@@ -26,6 +26,38 @@ permalink: /research/
     <p>This paper looks at the long run impact of secondary education for girls in Pakistan. Owing to low female enrollment rates, in 2004 the Government of Punjab introduced a conditional cash transfer program, targeting adolescent girls in districts with low literacy rates.  We use this exogenous variation in education to estimate the impact on the next generation of the beneficiaries.  In particular, we look at the impact on childrens’ health (infant and under five mortality, immunization, stunting and wasting) and education outcomes (enrollment in school). We explore several mechanisms that might be contributing to these outcomes including delayed age of marriage and first birth, fertility and better maternal care.</p>
 
    <p> Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan </p>
+</div>
+</p>
+
+
+  <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
+<p>  <div class="manual-content">
+
+</div>
+</p>
+
+
+  <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
+<p>  <div class="manual-content">
+
+</div>
+</p>
+
+
+
+  <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
+<p>  <div class="manual-content">
+
+</div>
+</p>
+
+
+
+  <div class="manual sectionTitle"><strong>Policy Work</strong><br></div>
+<p>  <div class="manual-content">
+
+</div>
+</p>
 
 <exp>
   <div id="exp-text">
