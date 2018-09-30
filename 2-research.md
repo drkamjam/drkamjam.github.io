@@ -9,13 +9,13 @@ permalink: /research/
 <p>  <div class="manual-content">
 
     <p>Committee: 
-	<a href="https://aysps.gsu.edu/profile/tom-mroz-2/">Dr. Thomas A. Mroz</a> (chair) 
-	<a href="https://aysps.gsu.edu/profile/alberto-chong/">Dr. Alberto E. Chong</a>
-	<a href="https://aysps.gsu.edu/profile/tim-sass-2/">Dr. Tim R. Sass</a>
+	<a href="https://aysps.gsu.edu/profile/tom-mroz-2/">Dr. Thomas A. Mroz</a> (chair),
+	<a href="https://aysps.gsu.edu/profile/alberto-chong/">Dr. Alberto E. Chong</a>,
+	<a href="https://aysps.gsu.edu/profile/tim-sass-2/">Dr. Tim R. Sass</a>, 
 	<a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Dr. Naved Hamid</a> (external)
      </p>
     
-    <p>Are there returns to investment in girl's education even at low levels? Evidence from Pakistan</p>
+    <p><span style="letter-spacing: 1px !important;font-weight: 400">Are there returns to investment in girl's education even at low levels? Evidence from Pakistan</span></p>
 
     <p>Policymakers have advocated educating girls and young women as a means to reduce underage marriage and fertility. Moreover, there is growing consensus that investments in the education of young girls and women yield additional private and social returns, including improved child health and nutrition outcomes. This paper looks at the effect of primary education for girls on these outcomes in Pakistan. I address the issue of endogeneity by using exogenous variation in school exposure introduced by school openings across more than a hundred districts of Pakistan. I exploit the timing and magnitude of school openings across districts at the time of individuals’ school going age to estimate the causal effect of primary education on their own long run outcomes as well as the health and educational outcomes of their children.</p>
 
