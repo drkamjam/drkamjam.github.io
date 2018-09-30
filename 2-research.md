@@ -9,12 +9,10 @@ permalink: /research/
 <p>  <div class="manual-content">
 
     <p>Committee: 
-	<ul>
-	<li><a href="https://aysps.gsu.edu/profile/tom-mroz-2/">Dr. Thomas A. Mroz</a> (chair)</li> 
-	<li><a href="https://aysps.gsu.edu/profile/alberto-chong/">Dr. Alberto E. Chong</a></li>
-	<li><a href="https://aysps.gsu.edu/profile/tim-sass-2/">Dr. Tim R. Sass</a></li>
-	<li><a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Dr. Naved Hamid</a> (external) </li>
-	</ul>
+	<a href="https://aysps.gsu.edu/profile/tom-mroz-2/">Dr. Thomas A. Mroz</a> (chair) 
+	<a href="https://aysps.gsu.edu/profile/alberto-chong/">Dr. Alberto E. Chong</a>
+	<a href="https://aysps.gsu.edu/profile/tim-sass-2/">Dr. Tim R. Sass</a>
+	<a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Dr. Naved Hamid</a> (external)
      </p>
     
     <p>Are there returns to investment in girl's education even at low levels? Evidence from Pakistan</p>
