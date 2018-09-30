@@ -19,7 +19,7 @@ permalink: /teaching/
     <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Lahore University of Management Sciences</span> </strong> </li>
         <ul>
         <li>Principles of Finance</li>
-        <li>Economics of Investment and Finaance</li>
+        <li>Economics of Investment and Finance</li>
         <li>Time Series Econometrics</li>
         <li>International Finance</li>
         </ul>
