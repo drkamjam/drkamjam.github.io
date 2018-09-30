@@ -10,7 +10,7 @@ permalink: /awards/
     <ul>
         <li>2017 - Quantitative Economics Award, Georgia State Univeristy</li>
         <li>2009 - Distinction in Masters program, University of Warwick</li>
-        <li>2008 - Graduation with Dean's Honors (ranked 2nd in the major), Lahore University of Management Sciences</li>
+        <li>2008 - Graduation with Dean's Honors (ranked 2nd in Economics), Lahore University of Management Sciences</li>
     </ul>
 </div>
 </p>
