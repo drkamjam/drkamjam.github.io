@@ -38,8 +38,11 @@ permalink: /teaching/
         <li>ECON 4950 - Econometrics and Applications (Fall 2017)</li>
         </ul>
      </div>
-     <div id="exp-logo"><img style="width:95%" src="/assets/img/gsu_500px.png"></div>
+     <div id="exp-logo"><img style="width:100%" src="/assets/img/gsu_500px.png"></div>
      </exp>
+
+    <br>
+    <br>
 
     <exp>
     <div id="exp-text">
@@ -51,7 +54,7 @@ permalink: /teaching/
         <li>International Finance</li>
         </ul>
     </div>
-    <div id="exp-logo"><img style="width:95%" src="/assets/img/lums_300x245.png"></div>
+    <div id="exp-logo"><img style="width:100%" src="/assets/img/lums_300x245.png"></div>
     </exp>
 
 
