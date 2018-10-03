@@ -30,6 +30,17 @@ permalink: /teaching/
         </ul>
      </ul>
 
+    <exp>
+    <div id="exp-text">
+    <li><span style="letter-spacing: 2px !important;font-weight: 400">Georgia State University</span></li>
+        <ul>
+        <li>ECON 4350 - Economics of Poverty and Public Policy (Fall 2018)</li>
+        <li>ECON 4950 - Econometrics and Applications (Fall 2017)</li>
+        </ul>
+     </div>
+     <div id="exp-logo"><img style="width:95%" src="/assets/img/lookout.jpg"></div>
+     </exp>
+
   </div>
 </p>
 </div>
