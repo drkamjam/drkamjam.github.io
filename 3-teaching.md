@@ -45,7 +45,7 @@ permalink: /teaching/
         <li>Introduction to Macroeconomics (Spring 2010)</li>
         </ul>
     </div>
-    <div id="exp-logo"><img style="width:75%" src="/assets/img/lse_logo.jpg"></div>
+    <div id="exp-logo"><img style="width:90%" src="/assets/img/lse_logo.jpg"></div>
     </exp>
 
     <br>
