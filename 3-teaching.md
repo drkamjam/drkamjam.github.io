@@ -8,7 +8,7 @@ permalink: /teaching/
 <p>  <div class="manual-content">
 
   I served as the instructor for the following classes:
- 
+    <br> 
     <ul>
     <li><span style="letter-spacing: 2px !important;font-weight: 400">Georgia State University</span></li>
         <ul>
