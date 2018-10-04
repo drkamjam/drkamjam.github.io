@@ -45,7 +45,7 @@ permalink: /teaching/
 
     <exp>
     <div id="exp-text">
-    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Lahore University of Management Sciences</span> </strong>
+    <span style="letter-spacing: 2px !important;font-weight: 400">Lahore University of Management Sciences</span>
         <ul>
         <li>Principles of Finance</li>
         <li>Economics of Investment and Finance</li>
@@ -60,7 +60,7 @@ permalink: /teaching/
 
     <exp>
     <div id="exp-text">
-    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Lahore School of Economics</span> </strong>
+    <span style="letter-spacing: 2px !important;font-weight: 400">Lahore School of Economics</span>
         <ul>
         <li>Introduction to Macroeconomics (Spring 2010)</li>
         </ul>
@@ -68,7 +68,7 @@ permalink: /teaching/
     <div id="exp-logo"><img style="width:90%" src="/assets/img/lse_logo.jpg"></div>
     </exp>
 
-    <br><br><br>
+    <br>
 
 
   </div>
