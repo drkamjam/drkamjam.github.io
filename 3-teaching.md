@@ -18,7 +18,7 @@ permalink: /teaching/
         <li>ECON 4950 - Econometrics and Applications (Fall 2017)</li>
         </ul>
      </div>
-     <div id="exp-logo"><img style="width:150%" src="/assets/img/gsu_logo.png"></div>
+     <div id="exp-logo"><img style="width:150%" src="/assets/img/gsu_circular.jpg"></div>
      </exp>
 
     <br>
