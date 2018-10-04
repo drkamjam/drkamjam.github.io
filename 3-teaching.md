@@ -41,7 +41,7 @@ permalink: /teaching/
      <div id="exp-logo"><img style="width:150%" src="/assets/img/gsu_logo.png"></div>
      </exp>
 
-    <br><br><br>
+    <br>
 
     <exp>
     <div id="exp-text">
