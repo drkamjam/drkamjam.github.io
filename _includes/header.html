@@ -11,7 +11,7 @@
     {% for sitePage in site.pages %}
 	    {% if sitePage.title %}
 	    <a style="font-size:16px" class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
-		    {% if sitePage.title != "Updates" %}
+		    {% if sitePage.title != "Awards" %}
 		    <span class="exclamationMark">|</span>
 		    {% endif %}
 	    {% endif %}
