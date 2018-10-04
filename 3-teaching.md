@@ -41,8 +41,7 @@ permalink: /teaching/
      <div id="exp-logo"><img style="width:100%" src="/assets/img/gsu_500px.png"></div>
      </exp>
 
-    <br>
-    <br>
+    <br><br>
 
     <exp>
     <div id="exp-text">
@@ -55,6 +54,18 @@ permalink: /teaching/
         </ul>
     </div>
     <div id="exp-logo"><img style="width:100%" src="/assets/img/lums_300x245.png"></div>
+    </exp>
+
+    <br><br>
+
+    <exp>
+    <div id="exp-text">
+    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Lahore School of Economics</span> </strong>
+        <ul>
+        <li>Introduction to Macroeconomics (Spring 2010)</li>
+        </ul>
+    </div>
+    <div id="exp-logo"><img style="width:100%" src="/assets/img/lse_logo.jpg"></div>
     </exp>
 
 
