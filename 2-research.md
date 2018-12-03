@@ -47,6 +47,12 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
 <p>  <div class="manual-content">
    <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
+   Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</a>, <br><i>Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)</i><br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat</a>]</span>
+</div>
+</p>
+
+<p>  <div class="manual-content">
+   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
    Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)</i><br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat</a>]</span>
 </div>
 </p>
@@ -56,25 +62,6 @@ permalink: /research/
    Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>43rd Annual Conference of the Association for Education Finance and Policy, Portland, Oregon (March, 2018)</i><br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat</a>]</span>
 </div>
 </p>
-
-<p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Voluntary Training and Adult Competency Outcomes in a Cross Section of Countries</a>, (with Chong, A.E. and Morales, M.C.)<br><i>87th Annual Meeting of the Southern Economic Association, Tampa, Florida. (November, 2017)</i><br>
-</div>
-</p>
-
-<p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</a>.<br><i>54th Annual Conference of the Missouri Valley Economic Association, Kansas City, Missouri (October, 2017)</i><br>
-</div>
-</p>
-
-<p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Returns to Non-Cognitive Skills: Evidence from the PIAAC</a>, (with Morales, M.C.)<br><i>54th Annual Conference of the Missouri Valley Economic Association, Kansas City, Missouri (October, 2017)</i><br>
-</div>
-</p>
-
 
 
   <div class="manual sectionTitle"><strong>Policy Work</strong><br></div>
