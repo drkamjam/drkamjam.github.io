@@ -47,19 +47,32 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
 <p>  <div class="manual-content">
    <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</a>, <br><i>Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)</i><br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat</a>]</span>
+   Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</a>, <br><i>Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)</i>
 </div>
 </p>
 
 <p>  <div class="manual-content">
    <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)</i><br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat</a>]</span>
+   Educate the Girls: Long Run Returns of Secondary Schooling for Girls</a>, <br><i>Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)</i>
+</div>
+</p>
+
+
+<p>  <div class="manual-content">
+   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
+   Are there Returns to Girls’ Education even at Low Levels? Evidence from Pakistan</a>, <br><i>Missouri Valley Economic Association, 55th Annual Conference, Memphis, Tennessee (November 2018)</i>
 </div>
 </p>
 
 <p>  <div class="manual-content">
    <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>43rd Annual Conference of the Association for Education Finance and Policy, Portland, Oregon (March, 2018)</i><br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat</a>]</span>
+   Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)</i>
+</div>
+</p>
+
+<p>  <div class="manual-content">
+   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
+   Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>43rd Annual Conference of the Association for Education Finance and Policy, Portland, Oregon (March, 2018)</i>
 </div>
 </p>
 
