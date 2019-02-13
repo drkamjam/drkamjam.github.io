@@ -9,11 +9,11 @@ permalink: /research/
 <p>  <div class="manual-content">
 
     <p>Committee: 
-	<a href="https://aysps.gsu.edu/profile/tom-mroz-2/">Dr. Thomas Mroz</a> (chair),
-	<a href="https://aysps.gsu.edu/profile/alberto-chong/">Dr. Alberto Chong</a>,
-	<a href="https://aysps.gsu.edu/profile/tim-sass-2/">Dr. Tim Sass</a>, 
-	<a href="https://sites.google.com/site/jonathansmithphd">Dr. Jonathan Smith</a>, 
-	<a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Dr. Naved Hamid</a> (external)
+	<a href="https://aysps.gsu.edu/profile/tom-mroz-2/">Thomas Mroz</a> (chair),
+	<a href="https://aysps.gsu.edu/profile/alberto-chong/">Alberto Chong</a>,
+	<a href="https://aysps.gsu.edu/profile/tim-sass-2/">Tim Sass</a>, 
+	<a href="https://sites.google.com/site/jonathansmithphd">Jonathan Smith</a>, 
+	<a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Naved Hamid</a> (external)
      </p>
     
     <p><span style="letter-spacing: 1px !important;font-weight: 400">Long run gains from educating girls: Evidence from a CCT program in Pakistan</span> (with Farah Said)</p>
