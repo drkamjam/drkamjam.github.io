@@ -36,9 +36,10 @@ permalink: /research/
 </div>
 </p>
 
-   <p>  <div class="manual-content">
-   <p> <span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive  Competencies in Technology-Rich Environments (with Alberto C. and Morales, M.C.) </span></p>
-</div>
+  <p>  <div class="manual-content">
+  Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments (with Alberto C. and Morales, M.C.)
+  </div>
+  </p>
 
 
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
@@ -48,23 +49,20 @@ permalink: /research/
   </div>
   </p>
 
-<p>  <div class="manual-content">
-   <p> <span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance (with Prettyman, C.A. and Smith, J.) </span></p>
-</div>
+  <p>  <div class="manual-content">
+  Can recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India (with Arora, P. and Fazlul, I.)
+  </div>
+  </p>
 
-<p>  <div class="manual-content">
-   <p> <span style="letter-spacing: 1px !important;font-weight: 400">Can recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India (with Arora, P. and Fazlul, I.)</span></p>
-</div>
+  <p>  <div class="manual-content">
+  Gender Preference and its implications for Child Development : Evidence from Bangladesh. (with Fazlul, I.)
+  </div>
+  </p>
 
-<p>  <div class="manual-content">
-   <p> <span style="letter-spacing: 1px !important;font-weight: 400">Gender Preference and its implications for Child Development : Evidence from Bangladesh. (with Fazlul, I.) </span></p>
-</div>
-
-<p>  <div class="manual-content">
-   <p> <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan </span></p>
-</div>
-</p>
-
+  <p>  <div class="manual-content">
+  Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan 
+  </div>
+  </p>
 
 
   <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
