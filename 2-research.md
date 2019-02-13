@@ -43,6 +43,11 @@ permalink: /research/
 
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
 
+  <p>  <div class="manual-content">
+  Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance (with Prettyman, C.A. and Smith, J.)
+  </div>
+  </p>
+
 <p>  <div class="manual-content">
    <p> <span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance (with Prettyman, C.A. and Smith, J.) </span></p>
 </div>
