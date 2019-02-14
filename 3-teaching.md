@@ -14,7 +14,7 @@ permalink: /teaching/
     <div id="exp-text">
     <span style="letter-spacing: 2px !important;font-weight: 400">Georgia State University</span>
         <ul>
-        <li>ECON 4350 - Economics of Poverty & Public Policy (<a href="https://tareena.github.io/files/econ4350.pdf">Fall 2018</a>)</li>
+        <li>ECON 4350 - Economics of Poverty & Public Policy (<a href="/files/econ4350.pdf">Fall 2018</a>)</li>
         <li>ECON 4950 - Econometrics and Applications (<a href="https://tareena.github.io/files/econ4950.pdf">Fall 2017</a>)</li>
         </ul>
      </div>
