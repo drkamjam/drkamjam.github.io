@@ -27,8 +27,8 @@ permalink: /teaching/
     <div id="exp-text">
     <span style="letter-spacing: 2px !important;font-weight: 400">Lahore University of Management Sciences</span>
         <ul>
-        <li>ECON 261 - Principles of Finance (<a href="/files/econ4350.pdf">Fall 2012-13</a>)</li>
-        <li>ECON 363 - Economics of Investment and Finance (<a href="/files/econ4350.pdf">Fall 2012-13</a>)</li>
+        <li>ECON 261 - Principles of Finance (<a href="/files/econ261.pdf">Fall 2012-13</a>)</li>
+        <li>ECON 363 - Economics of Investment and Finance (<a href="/files/econ363.pdf">Fall 2012-13</a>)</li>
         <li>ECON 334 - Time Series Econometrics (<a href="/files/econ334.pdf">Spring 2011-12</a>)</li>
         <li>ECON 352 - International Finance (<a href="/files/econ352.pdf">Spring 2011-12</a>)</li>
         </ul>
