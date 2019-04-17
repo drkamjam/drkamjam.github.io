@@ -12,7 +12,7 @@ description: tmusaddiq1@gsu.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  tareena 
 linkedin_username: tareena-musaddiq 
-twitter_username: tareenamusaddiq 
+twitter_username: tareena_m 
 
 # Build settings
 markdown: kramdown
