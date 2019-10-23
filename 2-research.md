@@ -31,7 +31,7 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
 <p>  <div class="manual-content">
    <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;"> 
-	Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a><img src="/assets/img/kjzz.png" width="100"][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat.</a><img src="/assets/img/chalkbeat.png" width="100">]</span>
+	Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by NPR</a><img src="/assets/img/kjzz.png" width="100">][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat.</a><img src="/assets/img/chalkbeat.png" width="100">]</span>
 </div>
 </p>
 
