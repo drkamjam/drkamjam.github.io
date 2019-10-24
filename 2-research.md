@@ -120,12 +120,22 @@ permalink: /research/
 
   <div class="manual sectionTitle"><strong>Policy Work</strong><br></div>
   <p>  <div class="manual-content">
-  India-Pakistan Trade: The Pakistan Perspective (2012); with a team commissioned by the Adam Smith Institute, U.K
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Using Existing School Messaging Platforms to Inform Parents About Their Child's Attendance</span> (with Alexa Prettyman and Jonathan Smith)</p>
   </div>
   </p>
 
   <p>  <div class="manual-content">
-  The Situation Analysis of Women and Children in Pakistan (2011); with a team commissioned by UNICEF
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">India-Pakistan Trade: The Pakistan Perspective (2012)</span> (with a team commissioned by the Adam Smith Institute, U.K)</p>
+  </div>
+  </p>
+
+  <p>  <div class="manual-content">
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">The Situation Analysis of Women and Children in Pakistan (2011)</span> (with a team commissioned by UNICEF)</p>
+  </div>
+  </p>
+
+  <p>  <div class="manual-content">
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Financial Crisis on Remittances toSelected South Asian countries (2010)</span> (with a team for the South Asian Network of Economic Institutes (SANEI))</p>
   </div>
   </p>
 
