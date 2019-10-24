@@ -15,10 +15,12 @@ permalink: /research/
 	<a href="https://sites.google.com/site/jonathansmithphd">Jonathan Smith</a>, 
 	<a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Naved Hamid</a> (external)
      </p>
-    
-    <p><span style="letter-spacing: 1px !important;font-weight: 400">Long run gains from educating girls: Evidence from a CCT program in Pakistan</span> (with Farah Said)</p>
 
-    <p>This paper looks at the long run impact of secondary education for girls in Pakistan. Owing to low female enrollment rates, in 2004 the Government of Punjab introduced a conditional cash transfer program, targeting adolescent girls in districts with low literacy rates.  We use this exogenous variation in education to estimate the impact on the next generation of the beneficiaries.  In particular, we look at the impact on childrens’ health (infant and under five mortality, immunization, stunting and wasting) and education outcomes (enrollment in school). We explore several mechanisms that might be contributing to these outcomes including delayed age of marriage and first birth, fertility and better maternal care.</p>
+    <p><span style="letter-spacing: 1px !important;font-weight: 400"><a href="/papers/jmp.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)</p>
+
+    <p> Policymakers often advocate girls' education as an important policy tool for improving lives of women and children. There is, however, limited evidence from developing countries on the long run effects of such policies. This paper evaluates the long run effects of a conditional cash assistance program for girls attending secondary school in Punjab, Pakistan. We base our identification on differences in outcomes of women residing in treatment and comparison districts, and on their exposure to the program based on their age when the program was introduced. Results show that each year of exposure to the program incrased the probability of beneficiaries completing secondary school by 0.6 pp., decreased the probability of marriage and pregnancy before the age of 16 (0.5 pp. and 0.2 pp.), and increased rates of maternal health care utilization. We also find evidence of inter-generational effects - children of beneficiaries have higher standardized scores for weight and height, are more likely to be vaccinated (0.7 pp.) and registered at birth (0.8 pp.) and are less likely to be stunted (-0.7 pp.), wasted (-0.4 pp.) or experience morbidity (0.5 pp.). These findings imply that programs aimed at promoting girl's education lead to beneficial long run gains in multiple dimensions, in addition to achieving the main goal of increasing education for girls.</p>
+
+    
 
     <p><span style="letter-spacing: 1px !important;font-weight: 400">Are there returns to investment in girls' education even at low levels? Evidence from Pakistan</span></p>
 
