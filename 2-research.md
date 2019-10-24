@@ -32,11 +32,11 @@ permalink: /research/
 
   <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
   <p>  <div class="manual-content">
-    <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Davis, G.W.)
+    <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
 	<br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage <img src="/assets/img/npr.jpg" width="50"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage <img src="/assets/img/chalkbeat.png" width="85"></a>]</span>
 
 
-  <br><p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto C. and Morales, M.C.)</p>
+  <br><p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)</p>
 
   </div>
   </p>
@@ -45,20 +45,20 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
 
   <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance</span> (with Prettyman, C.A. and Smith, J.)</p>
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance</span> (with Alexa Prettyman and Jonathan Smith)</p>
   </div>
-   <br><span>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="20"></a>]
-   			 [<a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="20"></a>]
+   <br><span>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
+   			 [<a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
   			 [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]</span>
 
 
   <p>  <div class="manual-content">
-    <p><span style="letter-spacing: 1px !important;font-weight: 400">Can recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Arora, P. and Fazlul, I.)</p>
+    <p><span style="letter-spacing: 1px !important;font-weight: 400">Can recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)</p>
   </div>
   </p>
 
   <p>  <div class="manual-content">
-      <p><span style="letter-spacing: 1px !important;font-weight: 400">Gender Preference and its implications for Child Development : Evidence from Bangladesh</span> (with Fazlul, I.)</p>
+      <p><span style="letter-spacing: 1px !important;font-weight: 400">Gender Preference and its implications for Child Development : Evidence from Bangladesh</span> (with Ishtiaque Fazlul)</p>
   </div>
   </p>
 
@@ -68,53 +68,52 @@ permalink: /research/
   </p>
 
   <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Adaptive Learning Platforms and Student Learning</span> (with Eau, G & Hoodin, D)</p>
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Adaptive Learning Platforms and Student Learning</span> (with Grace Eau and Derek Hoodin)</p>
   </div>
   </p>
 
   <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free School Meal Provision on Health and Educational Outcomes: Evidence from Community Eligibility Provision</span> (with Davis, W.)</p>
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free School Meal Provision on Health and Educational Outcomes: Evidence from Community Eligibility Provision</span> (with Will Davis)</p>
   </div>
   </p>
 
 
   <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
-American Society of Health Economics,7th Annual Conference. Washington D.C (June 2019)16thMid-Western International Economic Development Conference. University of Wisconsin, Madison (April 2019)44thAnnual Conference of Association for Education Finance and Policy, Kansas City, MO (Poster Presentation, March 2019)
 
-<p>  <div class="manual-content">
-   American Society of Health Economics,7th Annual Conference. Washington D.C (June 2019) 
-</div>
-</p>
+	<p>  <div class="manual-content">
+   	    American Society of Health Economics, 7th Annual Conference. Washington D.C (June 2019) 
+	</div>
+	</p>
 
-<p>  <div class="manual-content">
-   16th Midwest International Economic Development Conference. University of Wisconsin, Madison (April 2019) 
-</div>
-</p>
+	<p>  <div class="manual-content">
+   		16th Midwest International Economic Development Conference. University of Wisconsin, Madison (April 2019) 
+	</div>
+	</p>
 
-<p>  <div class="manual-content">
-   44th Annual Conference of Association for Education Finance and Policy, Kansas City, MO (Poster Presentation, March 2019) 
-</div>
-</p>
+	<p>  <div class="manual-content">
+   		44th Annual Conference of Association for Education Finance and Policy, Kansas City, MO (Poster Presentation, March 2019) 
+	</div>
+	</p>
 
-<p>  <div class="manual-content">
-   Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)
-</div>
-</p>
+	<p>  <div class="manual-content">
+   		Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)
+	</div>
+	</p>
 
-<p>  <div class="manual-content">
-   Missouri Valley Economic Association, 55th Annual Conference, Memphis, Tennessee (November 2018)
-</div>
-</p>
+	<p>  <div class="manual-content">
+   		Missouri Valley Economic Association, 55th Annual Conference, Memphis, Tennessee (November 2018)
+	</div>
+	</p>
 
-<p>  <div class="manual-content">
-   7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)
-</div>
-</p>
+	<p>  <div class="manual-content">
+   		7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)
+	</div>
+	</p>
 
-<p>  <div class="manual-content">
-   43rd Annual Conference of the Association for Education Finance and Policy, Portland, Oregon (March, 2018)
-</div>
-</p>
+	<p>  <div class="manual-content">
+   		43rd Annual Conference of the Association for Education Finance and Policy, Portland, Oregon (March, 2018)
+	</div>
+	</p>
 
 
   <div class="manual sectionTitle"><strong>Policy Work</strong><br></div>
