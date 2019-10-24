@@ -36,7 +36,7 @@ permalink: /research/
 	<br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by KJZZ <img src="/assets/img/npr.jpg" width="50"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat <img src="/assets/img/chalkbeat.png" width="85"></a>]</span>
 
 
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto C. and Morales, M.C.)</p>
+  <br><p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto C. and Morales, M.C.)</p>
 
   </div>
   </p>
