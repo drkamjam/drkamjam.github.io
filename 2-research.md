@@ -16,7 +16,7 @@ permalink: /research/
 	<a href="http://www.lahoreschoolofeconomics.edu.pk/cvs/drnaved.aspx">Naved Hamid</a> (external)
      </p>
 
-    <p><span style="letter-spacing: 1px !important;font-weight: 400"><a href="/papers/jmp.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)</p>
+    <p><span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/jmp.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)</p>
 
     <p> Policymakers often advocate girls' education as an important policy tool for improving lives of women and children. There is, however, limited evidence from developing countries on the long run effects of such policies. This paper evaluates the long run effects of a conditional cash assistance program for girls attending secondary school in Punjab, Pakistan. We base our identification on differences in outcomes of women residing in treatment and comparison districts, and on their exposure to the program based on their age when the program was introduced. Results show that each year of exposure to the program incrased the probability of beneficiaries completing secondary school by 0.6 pp., decreased the probability of marriage and pregnancy before the age of 16 (0.5 pp. and 0.2 pp.), and increased rates of maternal health care utilization. We also find evidence of inter-generational effects - children of beneficiaries have higher standardized scores for weight and height, are more likely to be vaccinated (0.7 pp.) and registered at birth (0.8 pp.) and are less likely to be stunted (-0.7 pp.), wasted (-0.4 pp.) or experience morbidity (0.5 pp.). These findings imply that programs aimed at promoting girl's education lead to beneficial long run gains in multiple dimensions, in addition to achieving the main goal of increasing education for girls.</p>
 
@@ -33,7 +33,7 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
   <p>  <div class="manual-content">
     <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Davis, G.W.)
-	<br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage by KJZZ <img src="/assets/img/npr.jpg" width="50"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage by Chalkbeat <img src="/assets/img/chalkbeat.png" width="85"></a>]</span>
+	<br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage <img src="/assets/img/npr.jpg" width="50"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage <img src="/assets/img/chalkbeat.png" width="85"></a>]</span>
 
 
   <br><p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto C. and Morales, M.C.)</p>
@@ -112,8 +112,7 @@ permalink: /research/
 </p>
 
 <p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>43rd Annual Conference of the Association for Education Finance and Policy, Portland, Oregon (March, 2018)</i>
+   43rd Annual Conference of the Association for Education Finance and Policy, Portland, Oregon (March, 2018)
 </div>
 </p>
 
