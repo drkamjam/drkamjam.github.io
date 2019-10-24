@@ -67,6 +67,16 @@ permalink: /research/
   </div>
   </p>
 
+  <p>  <div class="manual-content">
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Adaptive Learning Platforms and Student Learning</span> (with Eau, G & Hoodin, D)</p>
+  </div>
+  </p>
+
+  <p>  <div class="manual-content">
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free School Meal Provision on Health and Educational Outcomes: Evidence from Community Eligibility Provision</span> (with Davis, W.)</p>
+  </div>
+  </p>
+
 
   <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
 
