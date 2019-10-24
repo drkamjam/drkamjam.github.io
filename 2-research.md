@@ -33,7 +33,7 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
   <p>  <div class="manual-content">
     <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
-	<br><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage <img src="/assets/img/npr.jpg" width="50"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage <img src="/assets/img/chalkbeat.png" width="85"></a>]</span>
+	<br><p><span>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage <img src="/assets/img/npr.jpg" width="50"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage <img src="/assets/img/chalkbeat.png" width="85"></a>]</span></p>
 
 
   <br><p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)</p>
