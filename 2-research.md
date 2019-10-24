@@ -40,7 +40,7 @@ permalink: /research/
   <p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto C. and Morales, M.C.)</p>
 
   <p>  <div class="manual-content">
-  Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments (with Alberto C. and Morales, M.C.)
+  <span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto C. and Morales, M.C.)
   </div>
   </p>
 
