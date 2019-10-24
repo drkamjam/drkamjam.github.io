@@ -48,8 +48,8 @@ permalink: /research/
   <p><span style="letter-spacing: 1px !important;font-weight: 400"><a href="/papers/jmp.pdf">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance</a></span> (with Prettyman, C.A. and Smith, J.)</p>
   </div>
   </p>
-   <br><span>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="50"></a>]
-   			 [<a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="50"></a>]
+   <br><span>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="25"></a>]
+   			 [<a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="25"></a>]
   			 [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]</span>
 
 
