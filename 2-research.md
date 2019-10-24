@@ -45,11 +45,12 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
 
   <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance</span> (with Alexa Prettyman and Jonathan Smith)</p>
-  </div>
+    <span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance</span> (with Alexa Prettyman and Jonathan Smith)
    <br><p><span>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
    			 [<a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
-  			 [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]</span></p>
+  			 [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]</span>
+  </div>
+  </p>
 
 
   <p>  <div class="manual-content">
