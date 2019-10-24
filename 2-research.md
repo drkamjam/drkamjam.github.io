@@ -79,35 +79,35 @@ permalink: /research/
 
 
   <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
+American Society of Health Economics,7th Annual Conference. Washington D.C (June 2019)16thMid-Western International Economic Development Conference. University of Wisconsin, Madison (April 2019)44thAnnual Conference of Association for Education Finance and Policy, Kansas City, MO (Poster Presentation, March 2019)
 
 <p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Educate the Girls: Long Run Returns of Secondary Schooling for Girls (Poster)</a>, <br><i>Association for Education Finance and Policy, 44th Annual Meeting, Kansas City (March 2019)</i>
+   American Society of Health Economics,7th Annual Conference. Washington D.C (June 2019) 
 </div>
 </p>
 
 <p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</a>, <br><i>Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)</i>
+   16th Midwest International Economic Development Conference. University of Wisconsin, Madison (April 2019) 
 </div>
 </p>
 
 <p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Educate the Girls: Long Run Returns of Secondary Schooling for Girls</a>, <br><i>Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)</i>
-</div>
-</p>
-
-
-<p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Are there Returns to Girls’ Education even at Low Levels? Evidence from Pakistan</a>, <br><i>Missouri Valley Economic Association, 55th Annual Conference, Memphis, Tennessee (November 2018)</i>
+   44th Annual Conference of Association for Education Finance and Policy, Kansas City, MO (Poster Presentation, March 2019) 
 </div>
 </p>
 
 <p>  <div class="manual-content">
-   <a href="/papers/schoolmeals.pdf" style="font-weight: bolder;">
-   Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a>, (with Davis, G.W.)<br><i>7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)</i>
+   Southern Economic Association 88th Annual Meeting, Washington D.C. (November 2018)
+</div>
+</p>
+
+<p>  <div class="manual-content">
+   Missouri Valley Economic Association, 55th Annual Conference, Memphis, Tennessee (November 2018)
+</div>
+</p>
+
+<p>  <div class="manual-content">
+   7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)
 </div>
 </p>
 
