@@ -18,7 +18,7 @@ permalink: /research/
 
     <p><span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/jmp.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)</p>
 
-    <p> Policymakers often advocate girls' education as an important policy tool for improving lives of women and children. There is, however, limited evidence from developing countries on the long run effects of such policies. This paper evaluates the long run effects of a conditional cash assistance program for girls attending secondary school in Punjab, Pakistan. We base our identification on differences in outcomes of women residing in treatment and comparison districts, and on their exposure to the program based on their age when the program was introduced. Results show that each year of exposure to the program incrased the probability of beneficiaries completing secondary school by 0.6 pp., decreased the probability of marriage and pregnancy before the age of 16 (0.5 pp. and 0.2 pp.), and increased rates of maternal health care utilization. We also find evidence of inter-generational effects - children of beneficiaries have higher standardized scores for weight and height, are more likely to be vaccinated (0.7 pp.) and registered at birth (0.8 pp.) and are less likely to be stunted (-0.7 pp.), wasted (-0.4 pp.) or experience morbidity (0.5 pp.). These findings imply that programs aimed at promoting girl's education lead to beneficial long run gains in multiple dimensions, in addition to achieving the main goal of increasing education for girls.</p>
+    <p> Policymakers often advocate girls' education as an important policy tool for improving lives of women and children. There is, however, limited evidence from developing countries on the long run effects of such policies. This paper evaluates the long run effects of a conditional cash assistance program for girls attending secondary school in Punjab, Pakistan. We base our identification on differences in outcomes of women residing in treatment and comparison districts, and on their exposure to the program based on their age when the program was introduced. Results show that each year of exposure to the program increased the probability of beneficiaries completing secondary school by 0.6 pp., decreased the probability of marriage and pregnancy before the age of 16 (0.5 pp. and 0.2 pp.), and increased rates of maternal health care utilization. We also find evidence of inter-generational effects - children of beneficiaries have higher standardized scores for weight and height, are more likely to be vaccinated (0.7 pp.) and registered at birth (0.8 pp.) and are less likely to be stunted (-0.7 pp.), wasted (-0.4 pp.) or experience morbidity (0.5 pp.). These findings imply that programs aimed at promoting girl's education lead to beneficial long run gains in multiple dimensions, in addition to achieving the main goal of increasing education for girls.</p>
 
     
 
@@ -45,20 +45,14 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
 
   <p>  <div class="manual-content">
-    <span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: How to use existing school messaging platforms to inform parents about their child's academic performance</span> (with Alexa Prettyman and Jonathan Smith)
+    <span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: Using existing school messaging platforms to inform parents about their child's attendance</span> (with Alexa Prettyman and Jonathan Smith)
    <br><p>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
    			 [<a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
   			 [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]</div>
   </p>
 
-
   <p>  <div class="manual-content">
-    <p><span style="letter-spacing: 1px !important;font-weight: 400">Can recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)</p>
-  </div>
-  </p>
-
-  <p>  <div class="manual-content">
-      <p><span style="letter-spacing: 1px !important;font-weight: 400">Gender Preference and its implications for Child Development : Evidence from Bangladesh</span> (with Ishtiaque Fazlul)</p>
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free School Meal Provision on Health and Educational Outcomes: Evidence from Community Eligibility Provision</span> (with Will Davis and Dan Kreisman)</p>
   </div>
   </p>
 
@@ -73,7 +67,12 @@ permalink: /research/
   </p>
 
   <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free School Meal Provision on Health and Educational Outcomes: Evidence from Community Eligibility Provision</span> (with Will Davis)</p>
+    <p><span style="letter-spacing: 1px !important;font-weight: 400">Can recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)</p>
+  </div>
+  </p>
+
+  <p>  <div class="manual-content">
+      <p><span style="letter-spacing: 1px !important;font-weight: 400">Gender Preference and its implications for Child Development : Evidence from Bangladesh</span> (with Ishtiaque Fazlul)</p>
   </div>
   </p>
 
@@ -81,7 +80,7 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Conference Presentations</strong><br></div>
 
 	<p>  <div class="manual-content">
-   	    American Society of Health Economics, 7th Annual Conference. Washington D.C (June 2019) 
+   	    American Society of Health Economics, 8th Annual Conference. Washington, D.C. (June 2019) 
 	</div>
 	</p>
 
@@ -106,7 +105,7 @@ permalink: /research/
 	</p>
 
 	<p>  <div class="manual-content">
-   		7th Conference of the American Society of Health Economists, Atlanta, Georgia (June 2018)
+   		American Society of Health Economists, 7th Annual Conference, Atlanta, Georgia (June 2018)
 	</div>
 	</p>
 
