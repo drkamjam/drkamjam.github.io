@@ -38,9 +38,8 @@ permalink: /research/
   </p>
 
   <p>  <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)</p>
+  <span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)</div></p>
 
-  </div>
   </p>
 
 
