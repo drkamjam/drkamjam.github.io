@@ -38,19 +38,21 @@ permalink: /research/
   </p>
 
   <p>  <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)</div></p>
-
+  <span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)
+  </div>
   </p>
+
 
 
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
 
   <p>  <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Nudging to Improve School Attendance: Using existing school messaging platforms to inform parents about their child's attendance</span> (with Alexa Prettyman and Jonathan Smith)
-  <br><p>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
+  <br>[<a href="/files/attend-policy-brief.pdf">Policy Brief <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
    			 [<a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
-  			 [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]</p>
+  			 [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]
   </div>
+  </p>
 
   <p>  <div class="manual-content">
   <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free School Meal Provision on Health and Educational Outcomes: Evidence from Community Eligibility Provision</span> (with Will Davis and Dan Kreisman)</p>
