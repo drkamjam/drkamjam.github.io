@@ -135,7 +135,7 @@ permalink: /research/
   </p>
 
   <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Financial Crisis on Remittances toSelected South Asian countries (2010)</span> (with a team for the South Asian Network of Economic Institutes (SANEI))</p>
+  <p><span style="letter-spacing: 1px !important;font-weight: 400">Impact of Financial Crisis on Remittances to selected South Asian countries (2010)</span> (with a team for the South Asian Network of Economic Institutes (SANEI))</p>
   </div>
   </p>
 
