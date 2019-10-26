@@ -21,7 +21,6 @@ permalink: /research/
     <p> Policymakers often advocate girls' education as an important policy tool for improving lives of women and children. There is, however, limited evidence from developing countries on the long run effects of such policies. This paper evaluates the long run effects of a conditional cash assistance program for girls attending secondary school in Punjab, Pakistan. We base our identification on differences in outcomes of women residing in treatment and comparison districts, and on their exposure to the program based on their age when the program was introduced. Results show that each year of exposure to the program increased the probability of beneficiaries completing secondary school by 0.6 pp., decreased the probability of marriage and pregnancy before the age of 16 (0.5 pp. and 0.2 pp.), and increased rates of maternal health care utilization. We also find evidence of inter-generational effects - children of beneficiaries have higher standardized scores for weight and height, are more likely to be vaccinated (0.7 pp.) and registered at birth (0.8 pp.) and are less likely to be stunted (-0.7 pp.), wasted (-0.4 pp.) or experience morbidity (0.5 pp.). These findings imply that programs aimed at promoting girl's education lead to beneficial long run gains in multiple dimensions, in addition to achieving the main goal of increasing education for girls.</p>
 
     
-
     <p><span style="letter-spacing: 1px !important;font-weight: 400">Are there returns to investment in girls' education even at low levels? Evidence from Pakistan</span></p>
 
     <p>Policymakers have advocated educating girls and young women as a means to reduce underage marriage and fertility. Moreover, there is growing consensus that investments in the education of young girls and women yield additional private and social returns, including improved child health and nutrition outcomes. This paper looks at the effect of primary education for girls on these outcomes in Pakistan. I address the issue of endogeneity by using exogenous variation in school exposure introduced by school openings across more than a hundred districts of Pakistan. I exploit the timing and magnitude of school openings across districts at the time of individuals’ school going age to estimate the causal effect of primary education on their own long run outcomes as well as the health and educational outcomes of their children.</p>
@@ -31,12 +30,14 @@ permalink: /research/
 
 
   <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
+
   <p>  <div class="manual-content">
-    <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
-	<br><p>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage <img src="/assets/img/npr.jpg" width="50"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage <img src="/assets/img/chalkbeat.png" width="85"></a>]</p>
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
+	<br><p>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage <img src="/assets/img/npr.png" width="40"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage <img src="/assets/img/chalkbeat.png" width="85"></a>]</p>
+	</div>
 
-
-  <br><p><span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)</p>
+  <p>  <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Voluntary Training, Intrinsic Motivation, and Cognitive Competencies in Technology-Rich Environments</span> (with Alberto Chong and Camila Morales)</p>
 
   </div>
   </p>
