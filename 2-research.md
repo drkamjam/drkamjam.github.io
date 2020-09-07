@@ -36,7 +36,7 @@ permalink: /research/
 
 
   <p><div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/jmp.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)
+  <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</span> (with Farah Said)
   </div>
   </p>
 
