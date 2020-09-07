@@ -24,7 +24,7 @@ permalink: /research/
 
 
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free School Meal Provision on Health and Educational Outcomes: Evidence from Community Eligibility Provision</span> (with Will Davis and Dan Kreisman)
+  <span style="letter-spacing: 1px !important;font-weight: 400">The Effect of Free School Meals on BMI and Student Attendance</span> (with Will Davis and Dan Kreisman)
   </div>
   </p>
 
