@@ -43,7 +43,7 @@ permalink: /research/
 
 
 
-  <div class="manual seconded"><strong>Work in Progress</strong><br></div>
+  <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
 
   <p>  <div class="manual-content">
 
