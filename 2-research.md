@@ -35,7 +35,7 @@ permalink: /research/
   </p>
 
 
-  <p><div class="manual-content">
+  <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</span> (with Farah Said)
   </div>
   </p>
@@ -45,25 +45,25 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
 
   <p> <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Are there Returns to Investment in Girls' Education Even at Low Levels? Evidence from Pakistan</span></p>
+  <span style="letter-spacing: 1px !important;font-weight: 400">Are there Returns to Investment in Girls' Education Even at Low Levels? Evidence from Pakistan</span>
   </div>
   </p>
 
 
-  <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</span></p>
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</span>
   </div>
   </p>
 
 
-  <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)</p>
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)
   </div>
   </p>
 
 
-  <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">Metacognition and Student Performance in College</span> (with Grace Eau and Derek Hoodin)</p>
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Metacognition and Student Performance in College</span> (with Grace Eau and Derek Hoodin)
   </div>
   </p>
 
@@ -71,13 +71,13 @@ permalink: /research/
 
   <div class="manual sectionTitle"><strong>Policy Work</strong><br></div>
 
-  <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">India-Pakistan Trade: The Pakistan Perspective (2012)</span> (with a team commissioned by the Adam Smith Institute, U.K)</p>
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">India-Pakistan Trade: The Pakistan Perspective (2012)</span> (with a team commissioned by the Adam Smith Institute, U.K)
   </div>
   </p>
 
-  <p>  <div class="manual-content">
-  <p><span style="letter-spacing: 1px !important;font-weight: 400">The Situation Analysis of Women and Children in Pakistan (2011)</span> (with a team commissioned by UNICEF)</p>
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">The Situation Analysis of Women and Children in Pakistan (2011)</span> (with a team commissioned by UNICEF)
   </div>
   </p>
 
