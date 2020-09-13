@@ -30,10 +30,10 @@ permalink: /resources/
  <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Writing</span> </strong> </li>
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Elements of Style</a> by Strunk and White</li>
-    <li><a href="http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf">Writing tips for Phd students</a> by John Cohcrane</li>
+    <li><a href="http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf">Writing Tips for PhD students</a> by John Cohcrane</li>
     <li><a href="http://blogs.ubc.ca/khead/research/research-advice/formula">Intro</a>, <a href="http://marcfbellemare.com/wordpress/12797">middle</a> and <a href="http://marcfbellemare.com/wordpress/12060">end</a> formulas</li>
-    <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf">Four steps to an applied micro paper</a></li>
-    <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for a JMP</a></li>
+    <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf">Four Steps to an Applied Micro Paper</a></li>
+    <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for Writing your Job Market Paper</a></li>
  </ul>
   </div>
 <br>
@@ -63,20 +63,20 @@ For undergraduate courses, using media is often helpful to both explain concepts
     <li><a href="http://dirkmateer.com/">Derek Mateer</a></li>
     <li><a href="https://econ.video/">Economics Media Library</a>. Check out the Simpsons if you are a fan!</li>
     <li><a href="https://www.youtube.com/channel/UC9a_V7YbGGmWphAzk8_4LFQ">The Economics Guy</a></li>
-    <li><a href="https://www.econimate.com/">Economicate</a></li>
+    <li><a href="https://www.econimate.com/">Econimate</a></li>
     <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Voxdev Videos and talks</a> for development topics</li>
  </ul>
   </div>
 <br>
 <br>
-<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">R vs. Stata: The greate debate</span> </strong> (that we will not have here)</li>
+<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">R vs. Stata: The greate debate</span> </strong> (that we will not have here!)</li>
 I love Stata and remain a loyal user! Having said that I think it is always fun to learn new tools. Here are some sources that have helped me learn R. (I will update this list and add resources for ML and Data Science as and when I get into them)
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
     <li><a href="https://datavizm20.classes.andrewheiss.com/">Andrew Heiss</a> for data visualization (and more) using R</li>
     <li><a href="https://gpl.gsu.edu/capacity-building/">GPL workshops</a> - great for getting started. This is how I statrted learnign R</li>
     <li><a href="https://rstudio.com/resources/cheatsheets/">R cheat sheets</a></li>
-    <li><a href+"https://johnricco.github.io/2016/06/14/stata-dplyr/">Stata Translation to R</a>by John Ricco and <a href="https://www.matthieugomez.com/statar/">R for Stata Users</a></li>
+    <li><a href="https://johnricco.github.io/2016/06/14/stata-dplyr/">Stata Translation to R</a>by John Ricco and <a href="https://www.matthieugomez.com/statar/">R for Stata Users</a></li>
     <li><a href="https://scpoecon.github.io/ScPoEconometrics/">Econometrics with R</a></li>
     <li><a href="https://swirlstats.com/students.html">Interactive R course</a></li>
  </ul>
