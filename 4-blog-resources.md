@@ -7,9 +7,8 @@ permalink: /resources/
 <div class="manual-post">
 <div class="manual sectionTitle"><strong>Blog</strong><br></div>
 <p> <div class="manual-content">
-    Click here for my <a href"https://tareena.github.io">blog</a>. 
+    Click here for my <a href="https://tareena.github.io">blog</a>. 
     </div>
-</div>
 </p>
 <br>
 <div class="manual sectionTitle"><strong>Podcasts</strong><br></div>
@@ -41,7 +40,6 @@ permalink: /resources/
         <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for Writing your Job Market Paper</a></li>
        </ul>
  </ul>
-</div>
 <br>
 <ul>
 <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Presentation</span> </strong> </li>
@@ -51,7 +49,6 @@ permalink: /resources/
     <li><a href="https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0">Public speaking for Economists</a></li>
  </ul>
  </ul>
-  </div>
 <br>
 <br>
 <ul>
@@ -82,7 +79,7 @@ For undergraduate courses, using media is often helpful to both explain concepts
   <div class="manual sectionTitle"><strong>R vs. Stata: The greate debate</strong><br></div>
   (that we will not have here!) <br>
   <p>  <div class="manual-content">
-I love Stata and remain a loyal user! Having said that I think it is always fun to learn new tools. Here are some sources that have helped me learn R (I will update this list with resources for ML and Data Science)
+I love Stata and remain a loyal user! Having said that, I think it's always fun to learn new tools. Here are some sources that have helped me learn R (I will update this list with resources for ML and Data Science)
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
     <li><a href="https://datavizm20.classes.andrewheiss.com/">Andrew Heiss</a> for data visualization (and more) using R</li>
@@ -94,6 +91,5 @@ I love Stata and remain a loyal user! Having said that I think it is always fun 
  </ul>
   </div>
 
-</div>
 </p>
 </div>
