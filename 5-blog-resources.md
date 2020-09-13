@@ -15,14 +15,16 @@ permalink: /resources/
 <div class="manual sectionTitle"><strong>Podcasts</strong><br></div>
 <p>  <div class="manual-content">
   I love that there are so many podcass in Economics now. I also hate that there are so many and I can't keep up! Here are a few that I frequently listen to (Disclaimer: I have not heard all the episodes in all of these)
-  <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Podcasts</span> </strong> </li>
-    <ul>
+  <ul>
+    <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Podcasts</span> </strong> </li>
+       <ul>
         <li><a href="https://anchor.fm/hiddencurriculum">Hidden Curriculum</a></li>
         <li><a href="https://www.probablecausation.com/">Probable Causation</a></li>
         <li><a href="https://freakonomics.com/archive/">Freakonomics Radio</a></li>
         <li><a href="http://developmentdrums.org/">Development Drum</a></li>
         <li><a href="https://art19.com/shows/think-like-an-economist">Think like an Economist</a></li>
         <li><a href="https://www.anythingbutdismal.com/">Anything but dismal</a></li>
+       </ul>
     </ul>
 </div>
 </p>
