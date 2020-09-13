@@ -13,7 +13,7 @@ permalink: /resources/
 <br>
 <div class="manual sectionTitle"><strong>Podcasts</strong><br></div>
 <p>  <div class="manual-content">
-  I love that there are so many podcasts in Economics now. I also hate that there are so many and I can't keep up! Here are a few that I frequently listen to (Disclaimer: I've not heard all the episodes in all of these)
+  I love that there are so many excellent podcasts in Economics now. I also hate that there are so many and I can't keep up! Here are a few that I frequently listen to (Disclaimer: I've not heard all the episodes in all of these)
   <ul>
     <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">My favorite podcasts</span> </strong> </li>
        <ul>
@@ -22,7 +22,7 @@ permalink: /resources/
         <li><a href="https://freakonomics.com/archive/">Freakonomics Radio</a></li>
         <li><a href="http://developmentdrums.org/">Development Drum</a></li>
         <li><a href="https://art19.com/shows/think-like-an-economist">Think like an Economist</a></li>
-        <li><a href="https://www.anythingbutdismal.com/">Anything but dismal</a></li>
+        <li><a href="https://www.anythingbutdismal.com/">Anything but Dismal</a></li>
        </ul>
     </ul>
 </div>
@@ -77,14 +77,14 @@ For undergraduate courses, using media is often helpful to both explain concepts
   </p>
 <br>
 <br>
-  <div class="manual sectionTitle"><strong>R vs. Stata: The greate debate</strong><br></div>
+  <div class="manual sectionTitle"><strong>R vs. Stata: The great debate</strong><br></div>
   (that we will not have here!) <br>
   <p> <div class="manual-content">
 I love Stata and remain a loyal user! Having said that, I think it's always fun to learn new tools. Here are some sources that have helped me learn R (I will soon update this list with resources for ML and Data Science)
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
     <li><a href="https://datavizm20.classes.andrewheiss.com/">Andrew Heiss</a> for data visualization (and more) using R</li>
-    <li><a href="https://gpl.gsu.edu/capacity-building/">GPL workshops</a> - great for getting started. This is how I statrted learnign R</li>
+    <li><a href="https://gpl.gsu.edu/capacity-building/">GPL workshops</a> - great for getting started. This is how I started learning R</li>
     <li><a href="https://rstudio.com/resources/cheatsheets/">R cheat sheets</a></li>
     <li><a href="https://johnricco.github.io/2016/06/14/stata-dplyr/">Stata Translation to R</a> by John Ricco and <a href="https://www.matthieugomez.com/statar/">R for Stata Users</a></li>
     <li><a href="https://scpoecon.github.io/ScPoEconometrics/">Econometrics with R</a></li>
