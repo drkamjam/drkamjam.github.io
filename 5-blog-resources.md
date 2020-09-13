@@ -7,19 +7,14 @@ permalink: /resources/
 <div class="manual-post">
   <div class="manual sectionTitle"><strong>Resources</strong><br></div>
 <p>  <div class="manual-content">
-<exp>
-  <div id="exp-text">
     Here are some resources I have found useful in research, teaching, writing, etc. and also for my own learning. Click on each of the links to see all the cool stuff! I will keep updating these as I come across new ones. 
   </div>
-</exp>
 </div>
 </p>
 <br>
 <div class="manual sectionTitle"><strong>Podcasts</strong><br></div>
 <p>  <div class="manual-content">
   I love that there are so many podcass in Economics now. I also hate that there are so many and I can't keep up! Here are a few tried and tested ones (disclaimer: I have not heard all the episodes in all of these) 
-<exp>
-  <div id="exp-text">
     <ul>
         <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://anchor.fm/hiddencurriculum">Hidden Curriculum</a></span></li>
         <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://www.probablecausation.com/">Probable Causation</a></span></li>
@@ -27,14 +22,11 @@ permalink: /resources/
         <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="http://developmentdrums.org/">Development Drum</a></span></li>
         <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://art19.com/shows/think-like-an-economist">Think like an Economist</a></span></li>
         <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://www.anythingbutdismal.com/">Anything but dismal</a></span></li>
-</exp>
 </div>
 </p>
 <br>
   <div class="manual sectionTitle"><strong>Writing & Presentation</strong><br></div>
 <p>  <div class="manual-content">
-<exp>
-  <div id="exp-text">
  <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Writing</span> </strong> </li>
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Elements of Style</a> by Strunk and White</li>
@@ -44,11 +36,8 @@ permalink: /resources/
     <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for a JMP</a></li>
  </ul>
   </div>
-</exp>
 <br>
 <br>
-<exp>
-  <div id="exp-text">
 <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Presentation</span> </strong> </li>
  <ul>
     <li><a href="http://www.public.asu.edu/~bherrend/Various/PresentationTipsShort.pdf">How to make academic presentations</a></li>
@@ -56,24 +45,18 @@ permalink: /resources/
     <li><a href="https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0">Public speaking for Economists</a></li>
  </ul>
   </div>
-</exp>
 <br>
 <br>
-<exp>
-  <div id="exp-text">
 <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Job Market Resources</span> </strong> </li>
  <ul>
     <li><a href="https://www.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420">The Professor is In</a></li>
     <li><a href="https://www.amazon.com/Academic-Job-Search-Handbook/dp/0812223403">The Academic Job Search Handbook</a></li>
     <li><a href="https://www.aeaweb.org/content/file?id=869">John Cawley's Job Market Guide</a></li>
     <li>Referring - coming soon!</li>
- </ul>.
+ </ul>
   </div>
-</exp>
 <br>
 <br>
-<exp>
-  <div id="exp-text">
 <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Teaching</span> </strong> </li>
 For undergraduate courses, using media is often helpful to both explain concepts and gets the students interested. Here are some fun ones I like:
  <ul>
@@ -84,11 +67,8 @@ For undergraduate courses, using media is often helpful to both explain concepts
     <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Voxdev Videos and talks</a> for development topics</li>
  </ul>
   </div>
-</exp>
 <br>
 <br>
-<exp>
-  <div id="exp-text">
 <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">R vs. Stata: The greate debate</span> </strong> (that we will not have here)</li>
 I love Stata and remain a loyal user! Having said that I think it is always fun to learn new tools. Here are some sources that have helped me learn R. (I will update this list and add resources for ML and Data Science as and when I get into them)
  <ul>
@@ -101,7 +81,6 @@ I love Stata and remain a loyal user! Having said that I think it is always fun 
     <li><a href="https://swirlstats.com/students.html">Interactive R course</a></li>
  </ul>
   </div>
-</exp>
 
 </div>
 </p>
