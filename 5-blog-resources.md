@@ -66,7 +66,7 @@ permalink: /resources/
     <li><a href="https://www.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420">The Professor is In</a></li>
     <li><a href="https://www.amazon.com/Academic-Job-Search-Handbook/dp/0812223403">The Academic Job Search Handbook</a></li>
     <li><a href="https://www.aeaweb.org/content/file?id=869">John Cawley's Job Market Guide</a></li>
-    <li><a href+" http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Referring - coming soon!</a></li>
+    <li>Referring - coming soon!</li>
  </ul>.
   </div>
 </exp>
@@ -81,7 +81,7 @@ For undergraduate courses, using media is often helpful to both explain concepts
     <li><a href="https://econ.video/">Economics Media Library</a>. Check out the Simpsons if you are a fan!</li>
     <li><a href="https://www.youtube.com/channel/UC9a_V7YbGGmWphAzk8_4LFQ">The Economics Guy</a></li>
     <li><a href="https://www.econimate.com/">Economicate</a></li>
-    <li><a href+" http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Voxdev Videos and talks</a> for development topics</li>
+    <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Voxdev Videos and talks</a> for development topics</li>
  </ul>
   </div>
 </exp>
@@ -101,7 +101,6 @@ I love Stata and remain a loyal user! Having said that I think it is always fun 
     <li><a href="https://swirlstats.com/students.html">Interactive R course</a></li>
  </ul>
   </div>
-  <div id="exp-logo"><img style="width:95%" src="/assets/img/lookout.jpg"></div>
 </exp>
 
 </div>
