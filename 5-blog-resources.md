@@ -31,26 +31,31 @@ permalink: /resources/
 <br>
   <div class="manual sectionTitle"><strong>Writing & Presentation</strong><br></div>
 <p>  <div class="manual-content">
- <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Writing</span> </strong> </li>
  <ul>
+    <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Writing</span> </strong> </li>
+     <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Elements of Style</a> by Strunk and White</li>
     <li><a href="http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf">Writing Tips for PhD students</a> by John Cohcrane</li>
     <li><a href="http://blogs.ubc.ca/khead/research/research-advice/formula">Intro</a>, <a href="http://marcfbellemare.com/wordpress/12797">middle</a> and <a href="http://marcfbellemare.com/wordpress/12060">end</a> formulas</li>
     <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf">Four Steps to an Applied Micro Paper</a></li>
     <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for Writing your Job Market Paper</a></li>
  </ul>
+ </ul>
   </div>
 <br>
 <br>
+<ul>
 <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Presentation</span> </strong> </li>
  <ul>
     <li><a href="http://www.public.asu.edu/~bherrend/Various/PresentationTipsShort.pdf">How to make academic presentations</a></li>
     <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf">How to give an applied micro talk</a></li>
     <li><a href="https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0">Public speaking for Economists</a></li>
  </ul>
+ </ul>
   </div>
 <br>
 <br>
+<ul>
 <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Job Market Resources</span> </strong> </li>
  <ul>
     <li><a href="https://www.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420">The Professor is In</a></li>
@@ -58,10 +63,12 @@ permalink: /resources/
     <li><a href="https://www.aeaweb.org/content/file?id=869">John Cawley's Job Market Guide</a></li>
     <li>Referring - coming soon!</li>
  </ul>
+ </ul>
   </div>
 <br>
 <br>
-<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Teaching</span> </strong> </li>
+  <div class="manual sectionTitle"><strong>Teaching</strong><br></div>
+  <p>  <div class="manual-content">
 For undergraduate courses, using media is often helpful to both explain concepts and gets the students interested. Here are some fun ones I like:
  <ul>
     <li><a href="http://dirkmateer.com/">Derek Mateer</a></li>
@@ -73,7 +80,8 @@ For undergraduate courses, using media is often helpful to both explain concepts
   </div>
 <br>
 <br>
-<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">R vs. Stata: The greate debate</span> </strong> (that we will not have here!)</li>
+  <div class="manual sectionTitle"><strong>R vs. Stata: The greate debate</strong> (that we will not have here)<br></div>
+  <p>  <div class="manual-content">
 I love Stata and remain a loyal user! Having said that I think it is always fun to learn new tools. Here are some sources that have helped me learn R. (I will update this list and add resources for ML and Data Science as and when I get into them)
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
