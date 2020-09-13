@@ -14,14 +14,14 @@ permalink: /resources/
 <br>
 <div class="manual sectionTitle"><strong>Podcasts</strong><br></div>
 <p>  <div class="manual-content">
-  I love that there are so many podcass in Economics now. I also hate that there are so many and I can't keep up! Here are a few tried and tested ones (disclaimer: I have not heard all the episodes in all of these) 
+  I love that there are so many podcass in Economics now. I also hate that there are so many and I can't keep up! Here are a few that I frequently listen to (Disclaimer: I have not heard all the episodes in all of these) 
     <ul>
-        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://anchor.fm/hiddencurriculum">Hidden Curriculum</a></span></li>
-        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://www.probablecausation.com/">Probable Causation</a></span></li>
-        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://freakonomics.com/archive/">Freakonomics Radio</a></span></li>
-        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="http://developmentdrums.org/">Development Drum</a></span></li>
-        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://art19.com/shows/think-like-an-economist">Think like an Economist</a></span></li>
-        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://www.anythingbutdismal.com/">Anything but dismal</a></span></li>
+        <li><a href="https://anchor.fm/hiddencurriculum">Hidden Curriculum</a></span></li>
+        <li><a href="https://www.probablecausation.com/">Probable Causation</a></span></li>
+        <li><a href="https://freakonomics.com/archive/">Freakonomics Radio</a></span></li>
+        <li><a href="http://developmentdrums.org/">Development Drum</a></span></li>
+        <li><a href="https://art19.com/shows/think-like-an-economist">Think like an Economist</a></span></li>
+        <li><a href="https://www.anythingbutdismal.com/">Anything but dismal</a></span></li>
 </div>
 </p>
 <br>
@@ -76,7 +76,7 @@ I love Stata and remain a loyal user! Having said that I think it is always fun 
     <li><a href="https://datavizm20.classes.andrewheiss.com/">Andrew Heiss</a> for data visualization (and more) using R</li>
     <li><a href="https://gpl.gsu.edu/capacity-building/">GPL workshops</a> - great for getting started. This is how I statrted learnign R</li>
     <li><a href="https://rstudio.com/resources/cheatsheets/">R cheat sheets</a></li>
-    <li><a href="https://johnricco.github.io/2016/06/14/stata-dplyr/">Stata Translation to R</a>by John Ricco and <a href="https://www.matthieugomez.com/statar/">R for Stata Users</a></li>
+    <li><a href="https://johnricco.github.io/2016/06/14/stata-dplyr/">Stata Translation to R</a> by John Ricco and <a href="https://www.matthieugomez.com/statar/">R for Stata Users</a></li>
     <li><a href="https://scpoecon.github.io/ScPoEconometrics/">Econometrics with R</a></li>
     <li><a href="https://swirlstats.com/students.html">Interactive R course</a></li>
  </ul>
