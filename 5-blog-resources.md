@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Experience
-permalink: /experience/
+title : Blog & Resources 
+permalink: /resources/
 ---
 
 <div class="manual-post">
@@ -41,7 +41,7 @@ permalink: /experience/
     <li><a href="http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf">Writing tips for Phd students</a> by John Cohcrane</li>
     <li><a href="http://blogs.ubc.ca/khead/research/research-advice/formula">Intro</a>, <a href="http://marcfbellemare.com/wordpress/12797">middle</a> and <a href="http://marcfbellemare.com/wordpress/12060">end</a> formulas</li>
     <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf">Four steps to an applied micro paper</a></li>
-    <li><a href+" http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for a JMP</a></li>
+    <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for a JMP</a></li>
  </ul>
   </div>
 </exp>
