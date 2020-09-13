@@ -80,7 +80,8 @@ For undergraduate courses, using media is often helpful to both explain concepts
   </div>
 <br>
 <br>
-  <div class="manual sectionTitle"><strong>R vs. Stata: The greate debate</strong> (that we will not have here)<br></div>
+  <div class="manual sectionTitle"><strong>R vs. Stata: The greate debate</strong><br></div>
+  (that we will not have here) <br>
   <p>  <div class="manual-content">
 I love Stata and remain a loyal user! Having said that I think it is always fun to learn new tools. Here are some sources that have helped me learn R. (I will update this list and add resources for ML and Data Science as and when I get into them)
  <ul>
