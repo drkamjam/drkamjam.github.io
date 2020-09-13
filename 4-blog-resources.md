@@ -42,29 +42,28 @@ permalink: /resources/
  </ul>
 <br>
 <ul>
-<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Presentation</span> </strong> </li>
- <ul>
-    <li><a href="http://www.public.asu.edu/~bherrend/Various/PresentationTipsShort.pdf">How to make academic presentations</a></li>
-    <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf">How to give an applied micro talk</a></li>
-    <li><a href="https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0">Public speaking for Economists</a></li>
+    <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Presentation</span> </strong> </li>
+       <ul>
+        <li><a href="http://www.public.asu.edu/~bherrend/Various/PresentationTipsShort.pdf">How to make academic presentations</a></li>
+        <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf">How to give an applied micro talk</a></li>
+        <li><a href="https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0">Public speaking for Economists</a></li>
+       </ul>
  </ul>
- </ul>
-<br>
 <br>
 <ul>
-<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Job Market Resources</span> </strong> </li>
- <ul>
-    <li><a href="https://www.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420">The Professor Is In</a></li>
-    <li><a href="https://www.amazon.com/Academic-Job-Search-Handbook/dp/0812223403">The Academic Job Search Handbook</a></li>
-    <li><a href="https://www.aeaweb.org/content/file?id=869">John Cawley's Job Market Guide</a></li>
-    <li>Referring - coming soon!</li>
+    <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Job Market Resources</span> </strong> </li>
+       <ul>
+        <li><a href="https://www.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420">The Professor Is In</a></li>
+        <li><a href="https://www.amazon.com/Academic-Job-Search-Handbook/dp/0812223403">The Academic Job Search Handbook</a></li>
+        <li><a href="https://www.aeaweb.org/content/file?id=869">John Cawley's Job Market Guide</a></li>
+        <li>Referring - coming soon!</li>
+       </ul>
  </ul>
- </ul>
-  </div>
+</div>
 <br>
 <br>
   <div class="manual sectionTitle"><strong>Teaching</strong><br></div>
-  <p>  <div class="manual-content">
+  <p> <div class="manual-content">
 For undergraduate courses, using media is often helpful to both explain concepts and keep the students interested. Here are some fun ones that I like:
  <ul>
     <li><a href="http://dirkmateer.com/">Derek Mateer</a></li>
@@ -78,7 +77,7 @@ For undergraduate courses, using media is often helpful to both explain concepts
 <br>
   <div class="manual sectionTitle"><strong>R vs. Stata: The greate debate</strong><br></div>
   (that we will not have here!) <br>
-  <p>  <div class="manual-content">
+  <p> <div class="manual-content">
 I love Stata and remain a loyal user! Having said that, I think it's always fun to learn new tools. Here are some sources that have helped me learn R (I will update this list with resources for ML and Data Science)
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
