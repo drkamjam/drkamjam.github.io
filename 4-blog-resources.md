@@ -60,6 +60,7 @@ permalink: /resources/
        </ul>
  </ul>
 </div>
+</p>
 <br>
 <br>
   <div class="manual sectionTitle"><strong>Teaching</strong><br></div>
@@ -73,12 +74,13 @@ For undergraduate courses, using media is often helpful to both explain concepts
     <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Voxdev Videos and talks</a> for development topics</li>
  </ul>
   </div>
+  </p>
 <br>
 <br>
   <div class="manual sectionTitle"><strong>R vs. Stata: The greate debate</strong><br></div>
   (that we will not have here!) <br>
   <p> <div class="manual-content">
-I love Stata and remain a loyal user! Having said that, I think it's always fun to learn new tools. Here are some sources that have helped me learn R (I will update this list with resources for ML and Data Science)
+I love Stata and remain a loyal user! Having said that, I think it's always fun to learn new tools. Here are some sources that have helped me learn R (I will soon update this list with resources for ML and Data Science)
  <ul>
     <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
     <li><a href="https://datavizm20.classes.andrewheiss.com/">Andrew Heiss</a> for data visualization (and more) using R</li>
@@ -89,6 +91,5 @@ I love Stata and remain a loyal user! Having said that, I think it's always fun 
     <li><a href="https://swirlstats.com/students.html">Interactive R course</a></li>
  </ul>
   </div>
-
 </p>
 </div>
