@@ -5,16 +5,16 @@ permalink: /resources/
 ---
 
 <div class="manual-post">
-  <div class="manual sectionTitle"><strong>Resources</strong><br></div>
-<p>  <div class="manual-content">
-    Here are some resources I have found useful in research, teaching, writing, etc. and also for my own learning. Click on each of the links to see all the cool stuff! I will keep updating these as I come across new ones. 
-  </div>
+<div class="manual sectionTitle"><strong>Blog</strong><br></div>
+<p> <div class="manual-content">
+    Click here for my <a href"https://tareena.github.io">blog</a>. 
+    </div>
 </div>
 </p>
 <br>
 <div class="manual sectionTitle"><strong>Podcasts</strong><br></div>
 <p>  <div class="manual-content">
-  I love that there are so many podcass in Economics now. I also hate that there are so many and I can't keep up! Here are a few that I frequently listen to (Disclaimer: I have not heard all the episodes in all of these)
+  I love that there are so many podcasts in Economics now. I also hate that there are so many and I can't keep up! Here are a few that I frequently listen to (Disclaimer: I've not heard all the episodes in all of these)
   <ul>
     <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">My favorite podcasts</span> </strong> </li>
        <ul>
