@@ -1,0 +1,109 @@
+---
+layout: page
+title : Experience
+permalink: /experience/
+---
+
+<div class="manual-post">
+  <div class="manual sectionTitle"><strong>Resources</strong><br></div>
+<p>  <div class="manual-content">
+<exp>
+  <div id="exp-text">
+    Here are some resources I have found useful in research, teaching, writing, etc. and also for my own learning. Click on each of the links to see all the cool stuff! I will keep updating these as I come across new ones. 
+  </div>
+</exp>
+</div>
+</p>
+<br>
+<div class="manual sectionTitle"><strong>Podcasts</strong><br></div>
+<p>  <div class="manual-content">
+  I love that there are so many podcass in Economics now. I also hate that there are so many and I can't keep up! Here are a few tried and tested ones (disclaimer: I have not heard all the episodes in all of these) 
+<exp>
+  <div id="exp-text">
+    <ul>
+        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://anchor.fm/hiddencurriculum">Hidden Curriculum</a></span></li>
+        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://www.probablecausation.com/">Probable Causation</a></span></li>
+        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://freakonomics.com/archive/">Freakonomics Radio</a></span></li>
+        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="http://developmentdrums.org/">Development Drum</a></span></li>
+        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://art19.com/shows/think-like-an-economist">Think like an Economist</a></span></li>
+        <li><span style="letter-spacing: 2px !important;font-weight: 400"><a href="https://www.anythingbutdismal.com/">Anything but dismal</a></span></li>
+</exp>
+</div>
+</p>
+<br>
+  <div class="manual sectionTitle"><strong>Writing & Presentation</strong><br></div>
+<p>  <div class="manual-content">
+<exp>
+  <div id="exp-text">
+ <li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Writing</span> </strong> </li>
+ <ul>
+    <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Elements of Style</a> by Strunk and White</li>
+    <li><a href="http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf">Writing tips for Phd students</a> by John Cohcrane</li>
+    <li><a href="http://blogs.ubc.ca/khead/research/research-advice/formula">Intro</a>, <a href="http://marcfbellemare.com/wordpress/12797">middle</a> and <a href="http://marcfbellemare.com/wordpress/12060">end</a> formulas</li>
+    <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf">Four steps to an applied micro paper</a></li>
+    <li><a href+" http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Ten Rules for a JMP</a></li>
+ </ul>
+  </div>
+</exp>
+<br>
+<br>
+<exp>
+  <div id="exp-text">
+<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Presentation</span> </strong> </li>
+ <ul>
+    <li><a href="http://www.public.asu.edu/~bherrend/Various/PresentationTipsShort.pdf">How to make academic presentations</a></li>
+    <li><a href="https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf">How to give an applied micro talk</a></li>
+    <li><a href="https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0">Public speaking for Economists</a></li>
+ </ul>
+  </div>
+</exp>
+<br>
+<br>
+<exp>
+  <div id="exp-text">
+<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Job Market Resources</span> </strong> </li>
+ <ul>
+    <li><a href="https://www.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420">The Professor is In</a></li>
+    <li><a href="https://www.amazon.com/Academic-Job-Search-Handbook/dp/0812223403">The Academic Job Search Handbook</a></li>
+    <li><a href="https://www.aeaweb.org/content/file?id=869">John Cawley's Job Market Guide</a></li>
+    <li><a href+" http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Referring - coming soon!</a></li>
+ </ul>.
+  </div>
+</exp>
+<br>
+<br>
+<exp>
+  <div id="exp-text">
+<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Teaching</span> </strong> </li>
+For undergraduate courses, using media is often helpful to both explain concepts and gets the students interested. Here are some fun ones I like:
+ <ul>
+    <li><a href="http://dirkmateer.com/">Derek Mateer</a></li>
+    <li><a href="https://econ.video/">Economics Media Library</a>. Check out the Simpsons if you are a fan!</li>
+    <li><a href="https://www.youtube.com/channel/UC9a_V7YbGGmWphAzk8_4LFQ">The Economics Guy</a></li>
+    <li><a href="https://www.econimate.com/">Economicate</a></li>
+    <li><a href+" http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Voxdev Videos and talks</a> for development topics</li>
+ </ul>
+  </div>
+</exp>
+<br>
+<br>
+<exp>
+  <div id="exp-text">
+<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">R vs. Stata: The greate debate</span> </strong> (that we will not have here)</li>
+I love Stata and remain a loyal user! Having said that I think it is always fun to learn new tools. Here are some sources that have helped me learn R. (I will update this list and add resources for ML and Data Science as and when I get into them)
+ <ul>
+    <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
+    <li><a href="https://datavizm20.classes.andrewheiss.com/">Andrew Heiss</a> for data visualization (and more) using R</li>
+    <li><a href="https://gpl.gsu.edu/capacity-building/">GPL workshops</a> - great for getting started. This is how I statrted learnign R</li>
+    <li><a href="https://rstudio.com/resources/cheatsheets/">R cheat sheets</a></li>
+    <li><a href+"https://johnricco.github.io/2016/06/14/stata-dplyr/">Stata Translation to R</a>by John Ricco and <a href="https://www.matthieugomez.com/statar/">R for Stata Users</a></li>
+    <li><a href="https://scpoecon.github.io/ScPoEconometrics/">Econometrics with R</a></li>
+    <li><a href="https://swirlstats.com/students.html">Interactive R course</a></li>
+ </ul>
+  </div>
+  <div id="exp-logo"><img style="width:95%" src="/assets/img/lookout.jpg"></div>
+</exp>
+
+</div>
+</p>
+</div>
