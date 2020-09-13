@@ -63,8 +63,8 @@ permalink: /resources/
 </p>
 <br>
 <br>
-  <div class="manual sectionTitle"><strong>Teaching</strong><br></div>
-  <p> <div class="manual-content">
+<div class="manual sectionTitle"><strong>Teaching</strong><br></div>
+<p> <div class="manual-content">
 For undergraduate courses, using media is often helpful to both explain concepts and keep the students interested. Here are some fun ones that I like:
  <ul>
     <li><a href="http://dirkmateer.com/">Derek Mateer</a></li>
@@ -73,16 +73,16 @@ For undergraduate courses, using media is often helpful to both explain concepts
     <li><a href="https://www.econimate.com/">Econimate</a></li>
     <li><a href="http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf">Voxdev Videos and talks</a> for development topics</li>
  </ul>
-  </div>
-  </p>
+</div>
+</p>
 <br>
 <br>
-  <div class="manual sectionTitle"><strong>R vs. Stata: The great debate</strong><br></div>
-  (that we will not have here!) <br>
-  <p> <div class="manual-content">
+<div class="manual sectionTitle"><strong>R vs. Stata: The great debate</strong><br></div>
+(that we will not have here!) <br>
+<p> <div class="manual-content">
 I love Stata and remain a loyal user! Having said that, I think it's always fun to learn new tools. Here are some sources that have helped me learn R (I will soon update this list with resources for ML and Data Science)
  <ul>
-    <li><a href="https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/">Free R book</a></li>
+    <li><a href="https://r4ds.had.co.nz/">R for Data Science</a></li>
     <li><a href="https://datavizm20.classes.andrewheiss.com/">Andrew Heiss</a> for data visualization (and more) using R</li>
     <li><a href="https://gpl.gsu.edu/capacity-building/">GPL workshops</a> - great for getting started. This is how I started learning R</li>
     <li><a href="https://rstudio.com/resources/cheatsheets/">R cheat sheets</a></li>
@@ -90,6 +90,6 @@ I love Stata and remain a loyal user! Having said that, I think it's always fun 
     <li><a href="https://scpoecon.github.io/ScPoEconometrics/">Econometrics with R</a></li>
     <li><a href="https://swirlstats.com/students.html">Interactive R course</a></li>
  </ul>
-  </div>
+</div>
 </p>
 </div>
