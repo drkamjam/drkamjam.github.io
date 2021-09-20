@@ -33,7 +33,7 @@ permalink: /research/
   
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/pandemic-effect-paper.pdf">The Pandemic's Effect on Demand for Public Schools</a></span> (with Andrew Bacher-Hicks, Joshua Goodman and Kevin Stange)
-    <br>[<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief<img src="/assets/img/M-favicon.png" width="15"></a>]
+    <br>[<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief <img src="/assets/img/M-favicon.png" width="15"></a>]
 
   </div>
   </p>
