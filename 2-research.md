@@ -9,9 +9,11 @@ permalink: /research/
 
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/messaging-nudge.pdf">Nudging to Improve School Attendance: Using existing school messaging platforms to inform parents about their child's attendance</a></span> (with Alexa Prettyman and Jonathan Smith) Revision requested by <i>Journal of Research on Educational Effectiveness</i>. 
-  <br>[<a href="/files/attend-policy-brief.pdf">Policy Brief</a> and <a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert <img src="/assets/img/gsu-favicon.jpg" width="15"></a>]
-      [<a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">Media coverage <img src="/assets/img/ajc.png" width="25"></a>]
-      [<a href="https://www.edweek.org/ew/articles/2020/04/10/where-are-they-students-go-missing-in.html">Media coverage</a> and <a href="https://www.edweek.org/ew/articles/2020/03/26/when-schools-close-vulnerable-families-are-left.html">Opinion piece <img src="/assets/img/edweek.png" width="20"></a>]
+  <br>
+  [<a href="/files/attend-policy-brief.pdf">Policy Brief</a> and <a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert</a>]
+  [Media coverage: <a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">AJC</a>, 
+   <a href="https://www.edweek.org/ew/articles/2020/04/10/where-are-they-students-go-missing-in.html">Education Week</a>]
+  [Opinion piece: <a href="https://www.edweek.org/ew/articles/2020/03/26/when-schools-close-vulnerable-families-are-left.html">Education Week</a>]
   </div>
   </p>
     
@@ -22,7 +24,9 @@ permalink: /research/
 
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
-  <br><p>[<a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">Media coverage <img src="/assets/img/npr.png" width="40"></a>][<a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Media coverage <img src="/assets/img/chalkbeat.png" width="85"></a>]</p>
+  <br><p>
+  [Media coverage: <a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">NPR</a>, 
+   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat <img src="/assets/img/chalkbeat.png" width="85"></a>]</p>
   </div>
   </p>
 
@@ -37,7 +41,6 @@ permalink: /research/
   [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
   [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>,  <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>,
  <a href="https://www.the74million.org/article/the-week-in-covid-education-policy-many-parents-dont-plan-on-vaccinating-young-kids-schools-without-mask-policies-three-times-more-likely-to-see-outbreaks-more/">The 74</a>]
-
   </div>
   </p>
 
