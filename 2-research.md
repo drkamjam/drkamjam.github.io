@@ -26,7 +26,7 @@ permalink: /research/
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
   <br><p>
   [Media coverage: <a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">NPR</a>, 
-   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat <img src="/assets/img/chalkbeat.png" width="85"></a>]</p>
+   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat</a>]</p>
   </div>
   </p>
 
