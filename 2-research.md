@@ -36,7 +36,8 @@ permalink: /research/
   </p>
   
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/pandemic-effect-paper.pdf">The Pandemic's Effect on Demand for Public Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman)
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/pandemic-effect-paper.pdf">The Pandemic’s Effect on Demand for Public Schools,
+Homeschooling,and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman)
     <br>
   [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
   [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>,  <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>,
