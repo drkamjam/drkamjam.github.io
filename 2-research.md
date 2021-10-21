@@ -5,6 +5,15 @@ permalink: /research/
 ---
 
 <div class="manual-post">
+  
+  <div class="manual sectionTitle"><strong>Publications</strong><br></div>
+  
+  <p> <div class="manual-content">
+    <span style="letter-spacing: 1px !important;font-weight: 400">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach</span> (with Grace Eau and Derek Hoodin) Accepted, <i>Southern Economic Journal</i>.
+  </div>
+  </p>
+
+
   <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
 
   <p> <div class="manual-content">
@@ -16,12 +25,7 @@ permalink: /research/
   [Opinion piece: <a href="https://www.edweek.org/ew/articles/2020/03/26/when-schools-close-vulnerable-families-are-left.html">Education Week</a>]
   </div>
   </p>
-    
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach</span> (with Grace Eau and Derek Hoodin) Revision requested by <i>Southern Economic Journal</i>.
-  </div>
-  </p>
-
+  
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
   <br><p>
