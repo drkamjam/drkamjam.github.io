@@ -9,7 +9,7 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Publications</strong><br></div>
   
   <p> <div class="manual-content">
-    <span style="letter-spacing: 1px !important;font-weight: 400">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach</span> (with Grace Eau and Derek Hoodin) Accepted, <i>Southern Economic Journal</i>.
+    <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/adaptive-learning-SEJ.pdf">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach</a></span> (with Grace Eau and Derek Hoodin) Accepted, <i>Southern Economic Journal</i>.
   </div>
   </p>
 
@@ -27,7 +27,7 @@ permalink: /research/
   </p>
   
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</span> Revision requested by <i>Health Economics</i>.
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/community-midwives.pdf">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</a></span> Revision requested by <i>Health Economics</i>.
   </div>
   </p>
 
@@ -46,12 +46,12 @@ permalink: /research/
   </p>
   
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</span> (with Farah Said)
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/educate-girls-PK.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)
   </div>
   </p>
 
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/teacher-incentive-India.pdf">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</a></span> (with Puneet Arora and Ishtiaque Fazlul)
   </div>
   </p>
 
