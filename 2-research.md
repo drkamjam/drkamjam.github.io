@@ -27,18 +27,10 @@ permalink: /research/
   </p>
   
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
-  <br><p>
-  [Media coverage: <a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">NPR</a>, 
-   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat</a>]</p>
+  <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</span> Revision requested by <i>Health Economics</i>.
   </div>
   </p>
 
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://gpl.gsu.edu/publications/school-meal-provision/">The Effect of Free School Meals on BMI and Student Attendance</a></span> (with Will Davis and Dan Kreisman)
-  </div>
-  </p>
-  
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/pandemic-effect-paper.pdf">The Pandemic’s Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman)
   <br>
@@ -48,6 +40,34 @@ permalink: /research/
   </div>
   </p>
 
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://gpl.gsu.edu/publications/school-meal-provision/">The Effect of Free School Meals on BMI and Student Attendance</a></span> (with Will Davis and Dan Kreisman)
+  </div>
+  </p>
+  
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</span> (with Farah Said)
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Competitive Games to Nudge Students: Evidence from India</span> (with Puneet Arora)
+  </div>
+  </p>
+  
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
+  <br><p>
+  [Media coverage: <a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">NPR</a>, 
+   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat</a>]</p>
+  </div>
+  </p>
+  
 
 
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
@@ -66,35 +86,12 @@ permalink: /research/
   <span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free Provision of School Meals in Michigan Schools</span>
   </div>
   </p>
-
-
-
-  <div class="manual sectionTitle"><strong>International Work on Education & Health in Developing Countries</strong><br></div>
   
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</span> Revision requested by <i>Health Economics</i>.
-  </div>
-  </p>
-  
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</span> (with Farah Said)
-  </div>
-  </p>
-
-  <p> <div class="manual-content">
+   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Are there Returns to Investment in Girls' Education Even at Low Levels? Evidence from Pakistan</span>
   </div>
   </p>
-  
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Competitive Games to Nudge Students: Evidence from India</span> (with Puneet Arora)
-  </div>
-  </p>
 
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul)
-  </div>
-  </p>
 
 
 </div>
