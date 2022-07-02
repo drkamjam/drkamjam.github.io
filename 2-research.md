@@ -9,7 +9,21 @@ permalink: /research/
   <div class="manual sectionTitle"><strong>Publications</strong><br></div>
   
   <p> <div class="manual-content">
-    <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/adaptive-learning-SEJ.pdf">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach</a></span> (with Grace Eau and Derek Hoodin) Accepted, <i>Southern Economic Journal</i>.
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/adaptive-learning-SEJ.pdf">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach</a></span> (with Grace Eau and Derek Hoodin) Accepted, <i>Southern Economic Journal</i>.
+  </div>
+  </p>
+  
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/pandemic-effect-paper.pdf">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman) Accepted, <i>Journal of Public Economics</i>.
+  <br>
+  [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
+  [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>, <a href="https://www.washingtonpost.com/education/2022/01/30/public-education-crisis-enrollment-violence/">Washington Post</a>, <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>, <a href="https://www.the74million.org/article/the-week-in-covid-education-policy-many-parents-dont-plan-on-vaccinating-young-kids-schools-without-mask-policies-three-times-more-likely-to-see-outbreaks-more/">The 74</a>, <a href="https://www.latimes.com/world-nation/story/2022-04-18/homeschooling-surge-continues-despite-schools-reopening">Los Angeles Times</a>, <a href="https://www.pbs.org/newshour/education/as-u-s-schools-reopen-many-families-continue-to-opt-for-homeschooling">PBS</a>]
+  [Opinion Piece: <a href="/files/BostonGlobe-2021-10-11.jpeg">Boston Globe</a>]
+  </div>
+  </p>
+   
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul) Accepted, <i>Applied Economics Letters</i>.
   </div>
   </p>
 
@@ -32,26 +46,12 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/pandemic-effect-paper.pdf">The Pandemic’s Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman)
-  <br>
-  [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
-  [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>,  <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>,
- <a href="https://www.the74million.org/article/the-week-in-covid-education-policy-many-parents-dont-plan-on-vaccinating-young-kids-schools-without-mask-policies-three-times-more-likely-to-see-outbreaks-more/">The 74</a>]
-  </div>
-  </p>
-
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://gpl.gsu.edu/publications/school-meal-provision/">The Effect of Free School Meals on BMI and Student Attendance</a></span> (with Will Davis and Dan Kreisman)
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://gpl.gsu.edu/publications/school-meal-provision/">The Effect of Free School Meals on BMI and Student Attendance</a></span> (with Will Davis and Dan Kreisman) Revision requested by <i>Education Finance and Policy</i>.
   </div>
   </p>
   
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/educate-girls-PK.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)
-  </div>
-  </p>
-
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/teacher-incentive-India.pdf">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</a></span> (with Puneet Arora and Ishtiaque Fazlul)
   </div>
   </p>
 
