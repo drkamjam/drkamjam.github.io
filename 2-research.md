@@ -51,6 +51,11 @@ permalink: /research/
   </p>
   
   <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400">The Efficacy of Text-based Mentoring for Postpartum Mothers: A Pilot Study</span> (with Christina Weiland, Lindsay Page, Eleanor Martin and Sarah Homitsky) 
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/educate-girls-PK.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)
   </div>
   </p>
@@ -76,12 +81,7 @@ permalink: /research/
   <span style="letter-spacing: 1px !important;font-weight: 400">Evaluating Michigan’s Transitional Kindergarten Program</span> (with Brian Jacob, Anna Shapiro, and Christina Weiland) 
   </div>
   </p>
-  
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Evaluating a Text based Peer Mentoring Program for Young Mothers</span> (with Lindsay Page and Christina Weiland) 
-  </div>
-  </p>
-  
+    
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free Provision of School Meals in Michigan Schools</span>
   </div>
