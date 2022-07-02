@@ -14,7 +14,7 @@ permalink: /research/
   </p>
   
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/pandemic-effect-paper.pdf">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman) Accepted, <i>Journal of Public Economics</i>.
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://www.nber.org/papers/w29262">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman) Accepted, <i>Journal of Public Economics</i>.
   <br>
   [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
   [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>, <a href="https://www.washingtonpost.com/education/2022/01/30/public-education-crisis-enrollment-violence/">Washington Post</a>, <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>, <a href="https://www.the74million.org/article/the-week-in-covid-education-policy-many-parents-dont-plan-on-vaccinating-young-kids-schools-without-mask-policies-three-times-more-likely-to-see-outbreaks-more/">The 74</a>, <a href="https://www.latimes.com/world-nation/story/2022-04-18/homeschooling-surge-continues-despite-schools-reopening">Los Angeles Times</a>, <a href="https://www.pbs.org/newshour/education/as-u-s-schools-reopen-many-families-continue-to-opt-for-homeschooling">PBS</a>]
