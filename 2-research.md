@@ -27,7 +27,7 @@ permalink: /research/
   Davis, Will, Dan Kriesman, and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">The Effect of Free School Meals on BMI and Student Attendance.</span> <i>Education Finance and Policy</i>, forthcoming.
   <br>
   [Media coverage: <a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">NPR</a>, 
-   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat</a>]</p>
+   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat</a>]
   </div>
   </p>
 
