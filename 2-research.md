@@ -83,14 +83,6 @@ Teachers and Principals Improve Student Performance? Evidence from a Field Exper
   </p>
 
 
-  <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>    
-
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Competitive Games to Nudge Students: Evidence from India</span> (with Puneet Arora)
-  </div>
-  </p>
-    
-
 
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
       
