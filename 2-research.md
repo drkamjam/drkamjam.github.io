@@ -11,11 +11,15 @@ permalink: /research/
 
   <p> <div class="manual-content">
   Berne, Jordan, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, Anna Shapiro, and Christina Weiland. <span style="letter-spacing: 1px !important;font-weight: 400">Transitional Kindergarten: The New Kid on the Early Learning Block.</span> <i>Educational Researcher</i>, revise and resubmit
+  <br>
+  [<a href="https://edpolicy.umich.edu/research/epi-policy-briefs/michigan-transitional-kindergarten-first-look-program-reach-and-features">Policy Brief</a>]
   </div>
   </p>
 
   <p> <div class="manual-content">
   Bacher-Hicks, Andrew, Tareena Musaddiq, Joshua Goodman, and Kevin Stange. <span style="letter-spacing: 1px !important;font-weight: 400">The Stickiness of Pandemic-Driven Disenrollment from Public Schools.</span> <i>Economics of Education Review</i>, revise and resubmit
+  <br>
+  [<a href="/files/pandemic-disenrollment_policy-brief.pdf">Policy Brief</a>]
   </div>
   </p>
 
@@ -26,6 +30,8 @@ permalink: /research/
 
   <p> <div class="manual-content">
   Musaddiq, Tareena, Alexa Prettyman, and Jonathan Smith. <span style="letter-spacing: 1px !important;font-weight: 400">Using Existing School Messaging Platforms to Inform Parents About Their Child’s Attendance.</span> <i>Journal of Research on Educational Effectiveness</i>, 2023, doi:10.1080/19345747.2023.2264841
+  <br>
+  [<a href="https://gpl.gsu.edu/publications/school-attendance/">Policy Brief</a>]
   </div>
   </p>
 
