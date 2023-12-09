@@ -84,15 +84,15 @@ Teachers and Principals Improve Student Performance? Evidence from a Field Exper
 
 
 
-  <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
+  <div class="manual sectionTitle"><strong>Briefs</strong><br></div>
       
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free Provision of School Meals in Michigan Schools</span>
+  Musaddiq, Tareena, and Adam Dunn. <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://www.mathematica.org/publications/using-an-automated-writing-feedback-tool-insights-on-ecree-for-students-and-families">Using an Automated Writing Feedback Tool: Insights on Ecree for Students and Families.</a></span> Princeton, NJ: Mathematica, July 2023.
   </div>
   </p>
   
    <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Are there Returns to Investment in Girls' Education Even at Low Levels? Evidence from Pakistan</span>
+   Musaddiq, Tareena, and Adam Dunn. <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://www.mathematica.org/publications/teaching-and-learning-writing-with-ecree-insights-for-school-and-district-leaders">Teaching and Learning Writing: Insights for School and District Leaders.</a></span> Princeton, NJ: Mathematica, July 2023.
   </div>
   </p>
 
