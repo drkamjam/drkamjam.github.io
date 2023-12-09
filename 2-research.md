@@ -49,7 +49,7 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  Musaddiq, Tareena. <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan.</span> <i>Health Economics</i>/, vol. 32, no. 3, 2023, pp. 607-714. doi:10.1002/hec.4640
+  Musaddiq, Tareena. <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan.</span> <i>Health Economics</i>, vol. 32, no. 3, 2023, pp. 607-714. doi:10.1002/hec.4640
   </div>
   </p>
 
@@ -91,10 +91,6 @@ Teachers and Principals Improve Student Performance? Evidence from a Field Exper
   </div>
   </p>
   
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/community-midwives.pdf">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan</a></span> Revision requested by <i>Health Economics</i>.
-  </div>
-  </p>
 
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://gpl.gsu.edu/publications/school-meal-provision/">The Effect of Free School Meals on BMI and Student Attendance</a></span> (with Will Davis and Dan Kreisman) Revision requested by <i>Education Finance and Policy</i>.
