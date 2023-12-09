@@ -59,13 +59,13 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"> Arora, Puneet, Ishtiaque Fazlul, Tareena Musaddiq, and Abhinav Vats. “Can a Recognition Nudge for
-Teachers and Principals Improve Student Performance? Evidence from a Field Experiment in India".</span> <i>Applied Economic Letters</i>, 2022. doi:10.1080/13504851.2022.2099799.
+  Arora, Puneet, Ishtiaque Fazlul, Tareena Musaddiq, and Abhinav Vats. <span style="letter-spacing: 1px !important;font-weight: 400">Can a Recognition Nudge for
+Teachers and Principals Improve Student Performance? Evidence from a Field Experiment in India.</span> <i>Applied Economic Letters</i>, 2022. doi:10.1080/13504851.2022.2099799.
   </div>
   </p>
   
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"> Eau, Grace, Derek Hoodin, and Tareena Musaddiq. Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach.</span> <i>Southern Economic Journal</i>, vol. 88, no. 3, 2022, pp. 1086-1118. doi:10.1002/soej.12547.
+  Eau, Grace, Derek Hoodin, and Tareena Musaddiq <span style="letter-spacing: 1px !important;font-weight: 400">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach.</span> <i>Southern Economic Journal</i>, vol. 88, no. 3, 2022, pp. 1086-1118. doi:10.1002/soej.12547.
   </div>
   </p>
 
