@@ -10,7 +10,7 @@ permalink: /research/
 
 
   <p> <div class="manual-content">
-  Berne, Jordan, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, Anna Shapiro, Christina Weiland. <span style="letter-spacing: 1px !important;font-weight: 400">Transitional Kindergarten: The New Kid on the Early Learning Block.</span> <i>Educational Researcher</i>, revise and resubmit
+  Berne, Jordan, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, Anna Shapiro, and Christina Weiland. <span style="letter-spacing: 1px !important;font-weight: 400">Transitional Kindergarten: The New Kid on the Early Learning Block.</span> <i>Educational Researcher</i>, revise and resubmit
   </div>
   </p>
 
@@ -20,7 +20,7 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  Davis, Will, Dan Kriesman, and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">The Effect of Free School Meals on BMI and Student Attendance.</span> <i>Education Finance and Policy</i> forthcoming.
+  Davis, Will, Dan Kriesman, and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">The Effect of Free School Meals on BMI and Student Attendance.</span> <i>Education Finance and Policy</i>, forthcoming.
   </div>
   </p>
 
@@ -50,7 +50,7 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://www.nber.org/papers/w29262">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman) Accepted, <i>Journal of Public Economics</i>, vol. 212, 2022. doi:10.1016/j.jpubeco.2022.104710.
+  Musaddiq, Tareena, Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman. <span style="letter-spacing: 1px !important;font-weight: 400">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</span> <i>Journal of Public Economics</i>, vol. 212, 2022. doi:10.1016/j.jpubeco.2022.104710.
   <br>
   [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
   [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>, <a href="https://www.washingtonpost.com/education/2022/01/30/public-education-crisis-enrollment-violence/">Washington Post</a>, <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>, <a href="https://www.the74million.org/article/the-week-in-covid-education-policy-many-parents-dont-plan-on-vaccinating-young-kids-schools-without-mask-policies-three-times-more-likely-to-see-outbreaks-more/">The 74</a>, <a href="https://www.latimes.com/world-nation/story/2022-04-18/homeschooling-surge-continues-despite-schools-reopening">Los Angeles Times</a>, <a href="https://www.pbs.org/newshour/education/as-u-s-schools-reopen-many-families-continue-to-opt-for-homeschooling">PBS</a>]
@@ -65,12 +65,7 @@ Teachers and Principals Improve Student Performance? Evidence from a Field Exper
   </p>
   
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"> Eau, Grace, Derek Hoodin, and Tareena Musaddiq. <a href="/files/adaptive-learning-SEJ.pdf">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach.</a></span> <i>Southern Economic Journal</i>, vol. 88, no. 3, 2022, pp. 1086-1118. doi:10.1002/soej.12547.
-  </div>
-  </p>
-     
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul) Accepted, <i>Applied Economics Letters</i>.
+  <span style="letter-spacing: 1px !important;font-weight: 400"> Eau, Grace, Derek Hoodin, and Tareena Musaddiq. Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach.</span> <i>Southern Economic Journal</i>, vol. 88, no. 3, 2022, pp. 1086-1118. doi:10.1002/soej.12547.
   </div>
   </p>
 
