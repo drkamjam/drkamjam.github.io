@@ -7,21 +7,68 @@ permalink: /research/
 <div class="manual-post">
   
   <div class="manual sectionTitle"><strong>Publications</strong><br></div>
-  
+
+
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/adaptive-learning-SEJ.pdf">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach</a></span> (with Grace Eau and Derek Hoodin) Accepted, <i>Southern Economic Journal</i>.
+  Berne, Jordan, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, Anna Shapiro, Christina Weiland. <span style="letter-spacing: 1px !important;font-weight: 400">Transitional Kindergarten: The New Kid on the Early Learning Block.</span> <i>Educational Researcher</i>, revise and resubmit
   </div>
   </p>
-  
+
   <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://www.nber.org/papers/w29262">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman) Accepted, <i>Journal of Public Economics</i>.
+  Bacher-Hicks, Andrew, Tareena Musaddiq, Joshua Goodman, and Kevin Stange. <span style="letter-spacing: 1px !important;font-weight: 400">The Stickiness of Pandemic-Driven Disenrollment from Public Schools.</span> <i>Economics of Education Review</i>, revise and resubmit
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  Davis, Will, Dan Kriesman, and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">The Effect of Free School Meals on BMI and Student Attendance.</span> <i>Education Finance and Policy</i> forthcoming.
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  Musaddiq, Tareena, Alexa Prettyman, and Jonathan Smith. <span style="letter-spacing: 1px !important;font-weight: 400">Using Existing School Messaging Platforms to Inform Parents About Their Child’s Attendance.</span> <i>Journal of Research on Educational Effectiveness</i>, 2023, doi:10.1080/19345747.2023.2264841
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  Arora, Puneet, and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">Can Rank-Based Non-Monetary Rewards Improve Student Attendance? Experimental Evidence from India.</span> <i>Journal of Behavioral and Experimental Economics</i>, vol 107, 2023, doi:10.1016/j.socec.2023.102111
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  Weiland, Christina, Lindsay Page, Tareena Musaddiq, Eleanor Martin, and Sarah Homitsky. <span style="letter-spacing: 1px !important;font-weight: 400">The Efficacy of Text-Based Mentoring for Postpartum Mothers: A Pilot Study.</span> <i>Maternal and Child Health Journal</i>, vol 27, 2023,pp. 1632-1642. doi:10.1007/s10995-023-03704-6
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  Musaddiq, Tareena. <span style="letter-spacing: 1px !important;font-weight: 400">Can Community Midwives Change Maternal Health Practices? Evidence from Pakistan.</span> <i>Health Economics</i>/, vol. 32, no. 3, 2023, pp. 607-714. doi:10.1002/hec.4640
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  Musaddiq, Tareena, and Farah Said. <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long-Run Effects of a Secondary School Program for Girls in Pakistan.</span> <i>World Development</i>, vol. 161, 2023. doi:10.1016/j.worlddev.2022.106115
+  </div>
+  </p>
+
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://www.nber.org/papers/w29262">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</a></span> (with Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman) Accepted, <i>Journal of Public Economics</i>, vol. 212, 2022. doi:10.1016/j.jpubeco.2022.104710.
   <br>
   [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
   [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>, <a href="https://www.washingtonpost.com/education/2022/01/30/public-education-crisis-enrollment-violence/">Washington Post</a>, <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>, <a href="https://www.the74million.org/article/the-week-in-covid-education-policy-many-parents-dont-plan-on-vaccinating-young-kids-schools-without-mask-policies-three-times-more-likely-to-see-outbreaks-more/">The 74</a>, <a href="https://www.latimes.com/world-nation/story/2022-04-18/homeschooling-surge-continues-despite-schools-reopening">Los Angeles Times</a>, <a href="https://www.pbs.org/newshour/education/as-u-s-schools-reopen-many-families-continue-to-opt-for-homeschooling">PBS</a>]
   [Opinion Piece: <a href="/files/BostonGlobe-2021-10-11.jpeg">Boston Globe</a>]
   </div>
   </p>
-   
+
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400"> Arora, Puneet, Ishtiaque Fazlul, Tareena Musaddiq, and Abhinav Vats. “Can a Recognition Nudge for
+Teachers and Principals Improve Student Performance? Evidence from a Field Experiment in India".</span> <i>Applied Economic Letters</i>, 2022. doi:10.1080/13504851.2022.2099799.
+  </div>
+  </p>
+  
+  <p> <div class="manual-content">
+  <span style="letter-spacing: 1px !important;font-weight: 400"> Eau, Grace, Derek Hoodin, and Tareena Musaddiq. <a href="/files/adaptive-learning-SEJ.pdf">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach.</a></span> <i>Southern Economic Journal</i>, vol. 88, no. 3, 2022, pp. 1086-1118. doi:10.1002/soej.12547.
+  </div>
+  </p>
+     
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Can a recognition nudge for teachers and principals improve student performance? Evidence from a field experiment in India</span> (with Puneet Arora and Ishtiaque Fazlul) Accepted, <i>Applied Economics Letters</i>.
   </div>
