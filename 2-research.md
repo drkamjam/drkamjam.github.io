@@ -34,7 +34,11 @@ permalink: /research/
   <p> <div class="manual-content">
   Musaddiq, Tareena, Alexa Prettyman, and Jonathan Smith. <span style="letter-spacing: 1px !important;font-weight: 400">Using Existing School Messaging Platforms to Inform Parents About Their Child’s Attendance.</span> <i>Journal of Research on Educational Effectiveness</i>, 2023, doi:10.1080/19345747.2023.2264841
   <br>
-  [<a href="https://gpl.gsu.edu/publications/school-attendance/">Policy Brief</a>]
+  [<a href="/files/attend-policy-brief.pdf">Policy Brief</a> and <a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert</a>]
+  [Media coverage: <a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">AJC</a>, 
+   <a href="https://www.edweek.org/ew/articles/2020/04/10/where-are-they-students-go-missing-in.html">Education Week</a>]
+  [Opinion piece: <a href="https://www.edweek.org/ew/articles/2020/03/26/when-schools-close-vulnerable-families-are-left.html">Education Week</a>]
+
   </div>
   </p>
 
@@ -59,7 +63,7 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  Musaddiq, Tareena, Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman. <span style="letter-spacing: 1px !important;font-weight: 400">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</span> <i>Journal of Public Economics</i>, vol. 212, 2022. doi:10.1016/j.jpubeco.2022.104710.
+  Musaddiq, Tareena, Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman. <span style="letter-spacing: 1px !important;font-weight: 400">The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools</span> <i>Journal of Public Economics</i>, vol. 212, 2022. doi:10.1016/j.jpubeco.2022.104710
   <br>
   [<a href="/files/pandemic-effect-policy-brief.pdf">Policy Brief</a>]
   [Media coverage: <a href="https://www.marketplace.org/2021/09/23/public-schools-see-fewer-enrolled-kindergartners-whered-they-go/amp/">NPR's Marketplace</a>, <a href="https://www.washingtonpost.com/education/2022/01/30/public-education-crisis-enrollment-violence/">Washington Post</a>, <a href="https://theconversation.com/4-trends-in-public-school-enrollment-due-to-covid-19-168911">The Conversation</a>, <a href="https://www.the74million.org/article/the-week-in-covid-education-policy-many-parents-dont-plan-on-vaccinating-young-kids-schools-without-mask-policies-three-times-more-likely-to-see-outbreaks-more/">The 74</a>, <a href="https://www.latimes.com/world-nation/story/2022-04-18/homeschooling-surge-continues-despite-schools-reopening">Los Angeles Times</a>, <a href="https://www.pbs.org/newshour/education/as-u-s-schools-reopen-many-families-continue-to-opt-for-homeschooling">PBS</a>]
@@ -69,34 +73,17 @@ permalink: /research/
 
   <p> <div class="manual-content">
   Arora, Puneet, Ishtiaque Fazlul, Tareena Musaddiq, and Abhinav Vats. <span style="letter-spacing: 1px !important;font-weight: 400">Can a Recognition Nudge for
-Teachers and Principals Improve Student Performance? Evidence from a Field Experiment in India.</span> <i>Applied Economic Letters</i>, 2022. doi:10.1080/13504851.2022.2099799.
+Teachers and Principals Improve Student Performance? Evidence from a Field Experiment in India.</span> <i>Applied Economic Letters</i>, 2022. doi:10.1080/13504851.2022.2099799
   </div>
   </p>
   
   <p> <div class="manual-content">
-  Eau, Grace, Derek Hoodin, and Tareena Musaddiq <span style="letter-spacing: 1px !important;font-weight: 400">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach.</span> <i>Southern Economic Journal</i>, vol. 88, no. 3, 2022, pp. 1086-1118. doi:10.1002/soej.12547.
+  Eau, Grace, Derek Hoodin, and Tareena Musaddiq <span style="letter-spacing: 1px !important;font-weight: 400">Testing the Effects of Adaptive Learning Courseware on Student Performance: An Experimental Approach.</span> <i>Southern Economic Journal</i>, vol. 88, no. 3, 2022, pp. 1086-1118. doi:10.1002/soej.12547
   </div>
   </p>
 
 
-  <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>
-
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/messaging-nudge.pdf">Nudging to Improve School Attendance: Using existing school messaging platforms to inform parents about their child's attendance</a></span> (with Alexa Prettyman and Jonathan Smith) Revision requested by <i>Journal of Research on Educational Effectiveness</i>. 
-  <br>
-  [<a href="/files/attend-policy-brief.pdf">Policy Brief</a> and <a href="https://gpl.gsu.edu/publications/decrease-student-absenteeism/">Research Alert</a>]
-  [Media coverage: <a href="https://www.ajc.com/news/local-education/schools-try-electronic-messages-reduce-absenteeism/h5cCMgB27vsZfIwOtNam8J/">AJC</a>, 
-   <a href="https://www.edweek.org/ew/articles/2020/04/10/where-are-they-students-go-missing-in.html">Education Week</a>]
-  [Opinion piece: <a href="https://www.edweek.org/ew/articles/2020/03/26/when-schools-close-vulnerable-families-are-left.html">Education Week</a>]
-  </div>
-  </p>
-  
-
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="https://gpl.gsu.edu/publications/school-meal-provision/">The Effect of Free School Meals on BMI and Student Attendance</a></span> (with Will Davis and Dan Kreisman) Revision requested by <i>Education Finance and Policy</i>.
-  </div>
-  </p>
-  
+  <div class="manual sectionTitle"><strong>Working Papers</strong><br></div>    
 
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Competitive Games to Nudge Students: Evidence from India</span> (with Puneet Arora)
