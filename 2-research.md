@@ -25,6 +25,9 @@ permalink: /research/
 
   <p> <div class="manual-content">
   Davis, Will, Dan Kriesman, and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">The Effect of Free School Meals on BMI and Student Attendance.</span> <i>Education Finance and Policy</i>, forthcoming.
+  <br>
+  [Media coverage: <a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">NPR</a>, 
+   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat</a>]</p>
   </div>
   </p>
 
@@ -98,38 +101,16 @@ Teachers and Principals Improve Student Performance? Evidence from a Field Exper
   </div>
   </p>
   
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">The Efficacy of Text-based Mentoring for Postpartum Mothers: A Pilot Study</span> (with Christina Weiland, Lindsay Page, Eleanor Martin and Sarah Homitsky) 
-  </div>
-  </p>
-
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/educate-girls-PK.pdf">Educate the Girls: Long run Effects of a Secondary School Program for Girls in Pakistan</a></span> (with Farah Said)
-  </div>
-  </p>
 
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Competitive Games to Nudge Students: Evidence from India</span> (with Puneet Arora)
   </div>
   </p>
-  
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400"><a href="/files/schoolmeals.pdf">Estimating the Effects of Subsidized School Meals on Child Health: Evidence from the Community Eligibility Provision in Georgia Schools</a></span> (with Will Davis)
-  <br><p>
-  [Media coverage: <a href="https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students">NPR</a>, 
-   <a href="https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/">Chalkbeat</a>]</p>
-  </div>
-  </p>
-  
+    
 
 
   <div class="manual sectionTitle"><strong>Work in Progress</strong><br></div>
-  
-  <p> <div class="manual-content">
-  <span style="letter-spacing: 1px !important;font-weight: 400">Evaluating Michigan’s Transitional Kindergarten Program</span> (with Brian Jacob, Anna Shapiro, and Christina Weiland) 
-  </div>
-  </p>
-    
+      
   <p> <div class="manual-content">
   <span style="letter-spacing: 1px !important;font-weight: 400">Impact of Free Provision of School Meals in Michigan Schools</span>
   </div>
