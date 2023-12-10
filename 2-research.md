@@ -43,7 +43,7 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  Arora, Puneet, and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">Can Rank-Based Non-Monetary Rewards Improve Student Attendance? Experimental Evidence from India.</span> <i>Journal of Behavioral and Experimental Economics</i>, vol 107, 2023, doi:10.1016/j.socec.2023.102111
+  Puneet Arora and Tareena Musaddiq. <span style="letter-spacing: 1px !important;font-weight: 400">Can Rank-Based Non-Monetary Rewards Improve Student Attendance? Experimental Evidence from India.</span> <i>Journal of Behavioral and Experimental Economics</i>, vol 107, 2023, doi:10.1016/j.socec.2023.102111
   </div>
   </p>
 
@@ -58,7 +58,7 @@ permalink: /research/
   </p>
 
   <p> <div class="manual-content">
-  Musaddiq, Tareena, and Farah Said. <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long-Run Effects of a Secondary School Program for Girls in Pakistan.</span> <i>World Development</i>, vol. 161, 2023. doi:10.1016/j.worlddev.2022.106115
+  Tareena Musaddiq and Farah Said. <span style="letter-spacing: 1px !important;font-weight: 400">Educate the Girls: Long-Run Effects of a Secondary School Program for Girls in Pakistan.</span> <i>World Development</i>, vol. 161, 2023. doi:10.1016/j.worlddev.2022.106115
   </div>
   </p>
 
